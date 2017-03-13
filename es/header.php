@@ -68,10 +68,10 @@
                     <nav>
                         <ul class="nav nav-pills">
                           <li role="presentation"><a href="index.php" class="item0 <?php echo $activo == 1 ? 'active' : '' ?>">Presentación</a></li>
-                          <li role="presentation"><a href="enfoque-estrategico.php" class="item1 <?php echo $activo == 2 ? 'active' : '' ?>">Enfoque <br>estratégico</a></li>
-                          <li role="presentation"><a href="grupos-interes.php" class="item2 <?php echo $activo == 3 ? 'active' : '' ?>">Grupos de <br>interés</a></li>
-                          <li role="presentation"><a href="nuestro-trabajo.php" class="item3 <?php echo $activo == 4 ? 'active' : '' ?>">Nuestro trabajo <br>en 2015</a></li>
-                          <li role="presentation"><a href="inversion.php" class="item5 <?php echo $activo == 5 ? 'active' : '' ?>">Dimensión <br>económica</a></li>
+                          <li role="presentation"><a href="enfoque-estrategico.php" class="item1 <?php echo $activo == 2 ? 'active' : '' ?>">Enfoque<br>estratégico</a></li>
+                          <li role="presentation"><a href="grupos-interes.php" class="item2 <?php echo $activo == 3 ? 'active' : '' ?>">Grupos de<br>interés</a></li>
+                          <li role="presentation"><a href="nuestro-trabajo.php" class="item3 <?php echo $activo == 4 ? 'active' : '' ?>">Nuestro<br>trabajo en 2016</a></li>
+                          <li role="presentation"><a href="inversion.php" class="item5 <?php echo $activo == 5 ? 'active' : '' ?>">Dimensión<br>económica</a></li>
                         </ul>
                     </nav>
                 </div>

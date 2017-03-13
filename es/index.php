@@ -12,7 +12,7 @@
         <div class="col-sm-8">
         </div>
         <div class="col-sm-3 col-izq">
-            <img src="img/Carta_logo2.png" class="img_izquierda hidden-xs" alt="">
+            <img src="img/Carta2.png" class="img_izquierda hidden-xs" alt="">
         </div>
         <!--All Pages-->
         <div class="pt-page pt-page-1">
