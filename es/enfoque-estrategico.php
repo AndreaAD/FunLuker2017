@@ -25,8 +25,6 @@
                     <p class="texto">“Generar desarrollo económico y social, mediante trabajo en alianzas nacionales y/o internacionales, con proyectos transformadores y de alto impacto en educación y emprendimiento, que empoderen individuos, instituciones y comunidades”.</p>
                     <h5 class="subtitulo_texto_medio">VISIÓN</h5>
                     <p class="texto">“La Fundación Luker tiene la capacidad y el conocimiento para transformar comunidades y es reconocida por los significativos logros en educación y emprendimiento”.</p>
-                   
-                    
                 </div>
                 <div class="col-sm-3 col-izq">
                     

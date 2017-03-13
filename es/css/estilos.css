@@ -249,13 +249,27 @@ body#enfoque h5 {
 	padding-top: 30px;
 }
 .logo {
+	margin-top: 2px;
+	margin-left: -4px;
 	position: relative;
 	z-index: 99999;
+}
+.nav .nav-pills a.active {
+	position: relative;
+	font-weight: bold;
+}
+.nav .nav-pills a.active:before {
+	content: '';
+	position: absolute;
+	bottom: -2px;
+	left: 0px;
+	height: 2px;
+	width: 100%;
+	background-color: inherit;
 }
 .nav .nav-pills a.item0:hover, a.item0.active, .menuResponsive a.item0 {
 	background-color: #fff;
 	color: #512C1D;
-
 }
 .nav .nav-pills a.item3:hover, a.item3.active, .menuResponsive a.item3 {
 	background-color: #008AAB;
@@ -268,7 +282,7 @@ body#enfoque h5 {
 
 }
 .nav .nav-pills a.item1:hover, a.item1.active, .menuResponsive a.item1 {
-	background-color: #7AC143;
+	background-color: #8BC53F;
 	color: #fff !important;
 }
 .nav .nav-pills a.item4:hover, a.item4.active, .menuResponsive a.item4 {
@@ -302,10 +316,10 @@ body#enfoque h5 {
 	height: 100%;
 }
 .nav>li>a {
-	padding: 10px 23px;
+	padding: 10px 26px;
 }
 .img_derecha{
-	margin-top: 40px;
+	margin-top: 65px;
     width: 341px;
 }
 .img_izquierda{
@@ -323,13 +337,17 @@ body#enfoque h5 {
     text-transform: uppercase;
     position: relative;
     z-index: 5;
+    overflow: visible;
+    border-bottom: 1px solid #fff;
 }
 .menu a {
 	color: #fff;
 	font-size: 18px;
 }
 .menu .nav nav {
-	float: right;
+	float: left;
+	margin-left: 18px;
+	width: 100%;
 }
 .subMenu {
 	position: relative;
@@ -340,49 +358,42 @@ body#enfoque h5 {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 400;
 	font-size: 14px;
-	color: #646569;
 	text-transform: uppercase;
-	margin: 0 5px;
 }
-#enfoque .subMenu a{
-	color: #fff;
-}
+
 .subMenu .pager {
 	margin: 0px 0;
     margin-left: -6px;
     text-align: left;
+    height: 27px;
 }
-body#fundacion2014 .subMenu .pager li>a, .subMenu .pager li>span {
-	color: #fff;
-}
-body#fundacion2014 .subMenu .pager li>a.active,
-body#fundacion2014 .subMenu .pager li>a:hover {
+
+.subMenu a {
+	opacity: .9;
 	color: #512B1C;
 }
-body#enfoque .subMenu .pager li>a.active,
-body#enfoque .subMenu .pager li>a:hover {
-	color: #fff;
-	background-color: #512B1C;
-}
-body#grupos .subMenu .pager li>a, .subMenu .pager li>span {
+
+.subMenu.inverso a {
 	color: #fff;
 }
-body#grupos .subMenu .pager li>a.active,
-body#grupos .subMenu .pager li>a:hover {
-	color: #512B1C;
+.pager li {
+	height: 27px;
+	float: left;
 }
+
 .subMenu .pager li>a, .subMenu .pager li>span {
 	border: none;
 	background-color: transparent;
 	border-radius: 0px;
-	padding: 2px 8px;
+	padding: 0px 8px;
+	line-height: 27px;
 }
 .subMenu .pager li>a:hover, 
 .subMenu .pager li>a:focus, 
 .subMenu .pager li>a.active {
-	color:#512C1D;
-	font-weight: 700;
+	background-color: rgba(0,0,0,.2);
 }
+
 .nav-pills>li+li {
 	margin-left: 0;
 }
@@ -661,7 +672,7 @@ body#grupos .subMenu a.DescargarPDF  {
 	background-color: #fff;
 	margin-top: 15px;
 }
-.active{
+.nav a.active{
 	border-left: 1px solid #fff !important;
     border-right: 1px solid #fff !important;
 }

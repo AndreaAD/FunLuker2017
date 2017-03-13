@@ -1,9 +1,13 @@
-<div class="footer">
-    <div class="container text-right">
-        <p>Powered by:
-            <a href="//azoma.net" target="_blank"><img src="img/azoma.png" alt="" title="Azoma Criterio Editorial"></a>
-            <a href="//giro360.co" target="_blank"><img src="img/giro.png" alt="" title="giro360 Diseño"></a>
-        </p>
+<div class="container">
+    <div class="row">
+        <div class="footer">
+            <div class="container text-right">
+                <p>Powered by:
+                    <a href="//azoma.net" target="_blank"><img src="img/azoma.png" alt="" title="Azoma Criterio Editorial"></a>
+                    <a href="//giro360.co" target="_blank"><img src="img/giro.png" alt="" title="giro360 Diseño"></a>
+                </p>
+            </div>
+        </div>
     </div>
 </div>
 <script src="js/jquery-1.9.1.min.js"></script>
