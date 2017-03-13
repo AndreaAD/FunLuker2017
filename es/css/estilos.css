@@ -632,6 +632,12 @@ body#grupos .subMenu a.DescargarPDF  {
     line-height: 26px;
     margin-bottom: 21px;
 }
+.subtitulo_texto_medio{
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: #008AAB;
+}
 .texto{
 	font-family: 'Fira Sans Extra Condensed', sans-serif;
     font-weight: 300;
@@ -674,4 +680,14 @@ a:link
 }
 .verde{
 	background-color: #8BC53F;
+}
+.rojo{
+	background-color: #EB0029;
+}
+.lista_grupos{
+	font-size: 14px;
+    line-height: 0px;
+}
+.azulMenu{
+	background-color: #008AAB;
 }
