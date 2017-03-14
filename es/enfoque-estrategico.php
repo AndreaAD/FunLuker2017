@@ -7,12 +7,12 @@
     <?php include 'submenu_enfoque.php';?>
     <div class="row  pt-wrapper">
         <div class="col-sm-5 col-izq">
-            <img src="img/Carta.png" class="img_derecha hidden-xs" alt="">
+            <img src="img/enfoque1.png" class="img_derecha hidden-xs" alt="">
         </div>
         <div class="col-sm-8">
         </div>
         <div class="col-sm-3 col-izq">
-            <img src="img/Carta_logo2.png" class="img_izquierda hidden-xs" alt="">
+            <img src="img/enfoque2.png" class="img_izquierda hidden-xs" alt="">
         </div>
         <div class="pt-page pt-page-1">
             <div class="row contenido">

@@ -7,7 +7,7 @@
     <?php include 'submenu_presentacion.php';?>
     <div class="row  pt-wrapper">
         <div class="col-sm-5 col-izq">
-            <img src="img/Carta.png" class="img_derecha hidden-xs" alt="">
+            <img src="img/Carta1.png" class="img_derecha hidden-xs" alt="">
         </div>
         <div class="col-sm-8">
         </div>

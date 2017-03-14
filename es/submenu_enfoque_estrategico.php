@@ -1,4 +1,4 @@
-<div class="row subMenu azulMenu">
+<div class="row subMenu azulMenu inverso">
     <div class="col-sm-5">
         <a href="../en/index.php" class="language">English</a>
         <a href="ReporteSostenibilidad2015.pdf" class="DescargarPDF" target="_blank">Versión PDF</a>
