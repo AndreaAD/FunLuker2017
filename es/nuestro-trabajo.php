@@ -43,11 +43,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="15">15</a></li>
-                           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
                           </ul>
                         </nav>
                     </div>
@@ -86,11 +82,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="15">15</a></li>
-                           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
                           </ul>
                         </nav>
                     </div>
@@ -126,11 +118,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="15">15</a></li>
-                           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
                           </ul>
                         </nav>
                     </div>
@@ -167,11 +155,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="15">15</a></li>
-                           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
                           </ul>
                         </nav>
                     </div>
@@ -207,11 +191,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="15">15</a></li>
-                           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
                           </ul>
                         </nav>
                     </div>
@@ -247,10 +227,237 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-7">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco"><br>   
+                    <h4 class="subtitulo_texto azul">Principales resultados e innovaciones en 2016</h4>
+                        <ul class="texto">
+                            <li>Se sumaron nuevos aliados: Fenalco, Findeter, Gobernación de Caldas, Comité Integremial de Caldas, Centro Colombo Americano, ANDI, Alcaldía de Manizales.</li>
+                            <li>Se realizó una pasantía a Valparaíso (Chile) y a Mendoza (Argentina), para conocer su experiencia como ciudades universitarias. </li>
+                            <li>Se presentó el Primer Informe de Educación Superior de Manizales comparado con ciudades miembros de la Red de Ciudades Cómo Vamos. </li>
+                            <li>Se creó el índice de ciudades universitarias (ranking). </li>
+                            <li>Se organizaron dos Semanas del Estudiante Universitario con conciertos, muestras empresariales y eventos académicos, en las cuales participaron alrededor de 1.000 estudiantes.</li>
+                            <li>Se publicó la agenda cultural, deportiva y recreativa de Manizales, tanto en en www.manizalescampusuniversitario.com como en 3.000 ejemplares físicos distribuidos cada mes.</li>
+                            <li>Más de 200 establecimientos comerciales vinculados al proyecto otorgan beneficios a los estudiantes universitarios. </li>                            
+                        </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-8">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco"><br><br>
+                    <ul class="texto">
+                        <li>Se dispuso una Tribuna Universitaria en el Estadio Palogrande, exclusiva para estudiantes universitarios, así como descuentos especiales para asistir a los partidos de baloncesto del equipo Sabios Once Caldas.</li>
+                        <li>Se abrieron dos estaciones de bicicletas con 25 bicicletas públicas entregadas a la ciudad y más de 600 usuarios diarios en 2016. </li>
+                        <li>Se abrió la Oficina de la Bici para impulsar campañas de uso de la bicicleta con visitas a colegios, universidades y empresas de la ciudad. </li>
+                        <li>Se hizo presencia en Expoestudiante Nacional- Bogotá donde se mostró a Manizales como ciudad universitaria en todas sus dimensiones (94.478 asistentes a la feria). </li>
+                    </ul>
+                    <h4 class="subtitulo_texto azul">Participación en política pública</h4>
+                    <p class="texto">El proyecto Escuela Activa Urbana se consolida cada vez más como un programa fundamental para el mejoramiento de la calidad educativa de Manizales. El proyecto ha sido apoyado por seis administraciones municipales, incluida la posesionada en enero de 2016, que ha considerado esta iniciativa como una de sus principales estrategias de calidad y ha dado su apoyo al crecimiento del proyecto La Universidad en Tu Colegio.</p>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-9">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco"><br>
+                    <h4 class="subtitulo_texto azul">Principales riesgos y/o oportunidades</h4>
+                    <h5 class="destacado azul">Escuela Activa Urbana:</h5>
+                    <h5 class="destacado azul">Riesgos</h5>
+                    <ul class="texto">
+                        <li>Algunos cambios de directivos y de docentes que implican reprocesos en las instituciones educativas.</li>
+                        <li>Apatía de algunos docentes frente a las metodologías activas</li>
+                    </ul>
+                    <h5 class="destacado azul">Oportunidades</h5>
+                    <ul class="texto">
+                        <li>Manizales fue incluida con otras diez ciudades del mundo en el Piloto de Evaluación de Competencias Socio Emocionales a cargo de la OCDE.</li>
+                        <li>La oportunidad de que más colegios en Manizales cuenten con pedagogías activas a través de la implementación de Escuela Activa Urbana.</li>
+                    </ul>
+                    <h5 class="destacado azul">La Universidad en Tu Colegio:</h5>
+                    <h5 class="destacado azul">Riesgos</h5>
+                    <ul class="texto">
+                        <li>Limitada oferta actual de programas técnicos profesionales por parte de las universidades.</li>
+                        <li>Retiro de jóvenes del proceso, principalmente por debilidades académicas.</li>
+                    </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-10">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco"><br><br>
+                    <h5 class="destacado azul">Oportunidades</h5>
+                    <ul class="texto">
+                        <li>Ampliación y actualización permanente de la oferta de programas técnicos y tecnológicos. </li>
+                        <li>Trabajo articulado con los sectores productivo y académico para diseñar y/o ajustar programas que atiendan a las necesidades de las comunidades educativas.</li>
+                        <li>Diseño de estrategias complementarias al componente académico que contribuyan a la permanencia de los estudiantes en el proceso de formación.</li>
+                        <li>Conexión efectiva con el sector productivo</li>
+                        <li>Creación de rutas de empleabilidad para las distintas áreas de formación, con el fin de facilitar el acceso al mercado laboral.</li>
+                    </ul>
+                    <h5 class="destacado azul">Aprende:</h5>
+                    <h5 class="destacado azul">Oportunidades</h5>
+                    <ul class="texto">
+                        <li>Pilotear los materiales diseñados y analizar a profundidad los programas que se han piloteado representa una oportunidad pero también un reto.</li>
+                        <li>Apertura y disposición de los colegios de la estrategia Padrinos para llevar a cabo las actividades del proyecto. </li>
+                    </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="15">15</a></li>
+                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-11">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco"><br>
+                    <p class="texto">Tabla 2. Inversión en Educación para el desarrollo.</p>
+                    <p><img src="img/tabla2.png" class="img-responsive"></p>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
+                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-12">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco"><br>
+                    <p class="texto">Tabla 3. Beneficiarios de los proyectos de educación</p>
+                    <p><img src="img/tabla3.png" class="img-responsive"></p>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="12">12</a></li>
                            
                           </ul>
                         </nav>

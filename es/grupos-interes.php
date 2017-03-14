@@ -4,6 +4,17 @@
     include 'header.php'; 
 ?>
 <div class="container principal">
+    <div class="row subMenu rojo inverso">
+        <div class="col-sm-5">
+            <a href="../en/index.php" class="language">English</a>
+            <a href="ReporteSostenibilidad2015.pdf" class="DescargarPDF" target="_blank">Versión PDF</a>
+        </div>
+        <div class="col-sm-11">
+            <nav>
+                
+            </nav>
+        </div>
+    </div>
     <div class="row  pt-wrapper">
         <div class="col-sm-5 col-izq">
             <img src="img/gruposinteres1.png" class="img_derecha hidden-xs" alt="">
