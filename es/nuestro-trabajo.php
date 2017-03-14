@@ -106,10 +106,11 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <p class="texto">Tabla 1. Programas de formación de La Universidad en Tu Colegio en 2016.</p>
-                    <br><br><br><br><br><br><br> <br><br><br><br><br><br><br> <br><br><br><br><br><br><br> <br><br>
+                    <p><img src="img/tabla1.png" class="img-responsive"></p>
                     <ul class="texto">
                         <li>911 nuevos jóvenes matriculados en programas técnicos (corresponden al 70% de quienes cursan grado décimo en las instituciones de EAU).</li>
                         <li>78 jóvenes inscritos en el nivel tecnológico. </li>
+                        <li>92 jóvenes recibieron el título de Técnico Profesional en Configuración de Servicios Comerciales Web, de la Universidad de Manizales.</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -145,7 +146,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <ul class="texto">
-                        <li>92 jóvenes recibieron el título de Técnico Profesional en Configuración de Servicios Comerciales Web, de la Universidad de Manizales.</li>
+                        
                         <li>68 jóvenes recibieron título de Técnico Profesional de la Universidad de Caldas, 31 del programa Higiene y Seguridad Ocupacional y 37 del programa Operación de la Cadena Logística.</li>
                         <li>17 instituciones educativas de EAU implementan el proyecto La Universidad en Tu Colegio.</li>
                         <li>10 instituciones públicas y privadas se aliaron con la Fundación Luker para el desarrollo del proyecto: Secretaría de Educación de Manizales, Fundación Corona, Confa, Andi, Chec Grupo Epm, Universidad Autónoma de Manizales, Universidad Católica de Manizales, Universidad de Caldas, Universidad de Manizales, Unitécnica.</li>
@@ -229,7 +230,9 @@
                         <li>Con la Universidad de Harvard y el apoyo de la Secretaría de Educación de Manizales se llevó a cabo la estrategia de información a docentes y padres de familia sobre el desempeño de los estudiantes.  </li>
                     </ul>
                     <p class="texto">Con la Secretaría de Educación de Manizales, el Programa de Padrinos que hace parte de Aprende se contribuye al mejoramiento de los resultados de las pruebas SABER de grados 3o y 5o, mediante el acompañamiento a colegios con el más bajo desempeño en el Índice Sintético de Calidad Educativa (ISCE). Para ello se  aprovecha la experiencia y el conocimiento de las instituciones educativas de mejores resultados y la experiencia internacional de expertos en estos temas.  </p>
-                    <p class="texto azul destacado"><strong class=" destacado azul">NOTA:</strong> Las intervenciones de Aprende son evaluadas a través de las pruebas diagnósticas <strong>EGRA</strong> (Early Grade Reading Assessment) y <strong>EGMA</strong> (Early Grade Math Assessment). Se realizan pruebas de línea de base y de línea final por cada intervención. </p>
+                    <p class="texto"><strong class=" destacado azul">NOTA:</strong> Las intervenciones de Aprende son evaluadas a través de las pruebas diagnósticas <strong>EGRA</strong> (Early Grade Reading Assessment) y <strong>EGMA</strong> (Early Grade Math Assessment). Se realizan pruebas de línea de base y de línea final por cada intervención. </p><br>    
+                    <h4 class="subtitulo_texto azul">Manizales Campus Universitario</strong></h4>
+                    <p class="texto">La visión del programa es hacer de Manizales un campus universitario de clase mundial con el concurso del sector académico, el privado y el gobierno de la ciudad. El programa fortalece una oferta académica, cultural y de servicios de alta calidad especialmente diseñados para atraer y formar estudiantes nacionales y extranjeros que tendrán una experiencia de vida sin igual, en un entorno reconocido por su cultura, biodiversidad y calidad de vida.</p>    
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
