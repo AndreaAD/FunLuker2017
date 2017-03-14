@@ -3,7 +3,7 @@
     $activo_submenu = 1;
     include 'header.php'; 
 ?>
-<div class="container">
+<div class="container principal">
     <div class="row  pt-wrapper">
         <div class="col-sm-5 col-izq">
             <img src="img/gruposinteres1.png" class="img_derecha hidden-xs" alt="">
@@ -38,11 +38,6 @@
                         Beneficiarios de los programas <br>
                         Gobiernos (Municipal, Departamental, Nacional) <br>
                         Proveedores <br>
-                        Universidades, colegios y centros de investigación
-        Zonas de influencia de algunos proyectos agrícolas de CasaLuker
-                   Programas, Iniciativas y movilizaciones sociales de la ciudad <br>
-                        Zonas de influencia de algunos proyectos agrícolas de CasaLuker <br>
-                        Programas, iniciativas y movilizaciones sociales de la ciudad
                     </p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -53,6 +48,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                            
                           </ul>
                         </nav>
@@ -67,7 +63,14 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br>                
+                <div class="col-sm-8 fondo-blanco texto"><br>
+                    <p class="indentado">
+                        Universidades, colegios y centros de investigación
+        Zonas de influencia de algunos proyectos agrícolas de CasaLuker
+                   Programas, Iniciativas y movilizaciones sociales de la ciudad <br>
+                        Zonas de influencia de algunos proyectos agrícolas de CasaLuker <br>
+                        Programas, iniciativas y movilizaciones sociales de la ciudad
+                    </p>                
                     <h5 class="destacado azul">Aliados, proveedores y organizaciones beneficiarias 2016</h5><br>
                     <ul class="lista_grupos">
                         <li>Actuar Microempresas</li>
@@ -91,17 +94,7 @@
                         <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>
                         <li>Corporación para el Desarrollo de Caldas</li>
                         <li>Estoy con Manizales</li>
-                        <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
-                        <li>Federación Nacional de Comerciantes, Fenalco - Seccional Caldas </li>
-                        <li>Financiera de Desarrollo Territorial, Findeter</li>
-                        <li>Fundación Alejandra Vélez Mejía</li>
-                        <li>Fundación Bolívar Davivienda</li>
-                        <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
-                        <li>Fundación Corona</li>
-                        <li>Fundación Empresarios por la Educación, ExE</li>
-                        <li>Fundación Éxito</li>
-                        <li>Fundación Fesco</li>
-                        <li>Fundación Mario Santo Domingo</li>
+                        
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -112,6 +105,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                            
                           </ul>
                         </nav>
@@ -128,6 +122,17 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>              
                     <ul class="lista_grupos">
+                        <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
+                        <li>Federación Nacional de Comerciantes, Fenalco - Seccional Caldas </li>
+                        <li>Financiera de Desarrollo Territorial, Findeter</li>
+                        <li>Fundación Alejandra Vélez Mejía</li>
+                        <li>Fundación Bolívar Davivienda</li>
+                        <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
+                        <li>Fundación Corona</li>
+                        <li>Fundación Empresarios por la Educación, ExE</li>
+                        <li>Fundación Éxito</li>
+                        <li>Fundación Fesco</li>
+                        <li>Fundación Mario Santo Domingo</li>
                         <li>Fundación Orquestas Juveniles e Infantiles de Caldas, Batuta Caldas</li>
                         <li>Fundacion Saldarriaga Concha</li>
                         <li>Fundación San Ezequiel Moreno</li>
@@ -145,6 +150,33 @@
                         <li>Municipio de Manizales - Secretaría de TIC y Competitividad</li>
                         <li>Obras Sociales Betania </li>
                         <li>Organizaciones de la Alianza por la Educación</li>
+                        
+                    </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-4">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco texto"><br>
                         <li>Parque Tecnológico del Software, Parquesoft</li>
                         <li>Programa Manizales Cómo Vamos</li>
                         <li>Red de Emprendimiento de Caldas</li>
@@ -164,10 +196,11 @@
                           <ul class="pager">
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                            
                           </ul>
                         </nav>
@@ -178,12 +211,12 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-4">
+        <div class="pt-page pt-page-5">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
-                    <h5 class="destacado azul">Contratistas 2016</h5><br>                
+                <h5 class="destacado azul">Contratistas 2016</h5><br>                
                     <ul class="lista_grupos">
                         <li>Almera - Information Management Limitada</li>
                         <li>A.B.C. publicidad integral</li>
@@ -211,12 +244,6 @@
                         <li>Deloitte & Touche Ltda.</li>
                         <li>Ecoglobal Print</li>
                         <li>Editorial Blanecolor S.A.S.</li>
-                        <li>Editorial La Patria S.A.</li>
-                        <li>Editorial Litoprint</li>
-                        <li>Eduardo Aristizabal Jiménez</li>
-                        <li>Eikon Digital</li>
-                        <li>Expresión Viva Ltda.</li>
-
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -224,9 +251,10 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                            
                           </ul>
                         </nav>
@@ -237,12 +265,17 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-5">
+        <div class="pt-page pt-page-6">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br><br>             
+                <div class="col-sm-8 fondo-blanco texto"><br><br>         
                     <ul class="lista_grupos">
+                        <li>Editorial La Patria S.A.</li>
+                        <li>Editorial Litoprint</li>
+                        <li>Eduardo Aristizabal Jiménez</li>
+                        <li>Eikon Digital</li>
+                        <li>Expresión Viva Ltda.</li>
                         <li>Felipe Molina Álvarez</li>
                         <li>Fénix Impresión Digital S.A.S.</li>
                         <li>Flywan S.A.S.</li>
@@ -266,17 +299,6 @@
                         <li>La Gota de Leche</li>
                         <li>Liliana López Cardona</li>
                         <li>Luis Felipe Trujillo Henao</li>
-                        <li>Misael Alejandro Peralta Rodríguez</li>
-                        <li>Mónica María Bedoya Rojas</li>
-                        <li>Natalia Franco Ramírez</li>
-                        <li>Old Mutual Sociedad Fiduciaria S.A.</li>
-                        <li>Organización Radial Olímpica S.A.</li>
-                        <li>Patricia Rojas Otálvaro</li>
-                        <li>People Contact S.A.S.</li>
-                        <li>Quintero Giraldo y Cia – Papelería Lineal</li>
-                        <li>Realtur S.A. </li>
-
-
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -285,8 +307,9 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="5">5</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                            
                           </ul>
                         </nav>
@@ -297,12 +320,21 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-6">
+        <div class="pt-page pt-page-7">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
                     <ul class="lista_grupos">
+                        <li>Misael Alejandro Peralta Rodríguez</li>
+                        <li>Mónica María Bedoya Rojas</li>
+                        <li>Natalia Franco Ramírez</li>
+                        <li>Old Mutual Sociedad Fiduciaria S.A.</li>
+                        <li>Organización Radial Olímpica S.A.</li>
+                        <li>Patricia Rojas Otálvaro</li>
+                        <li>People Contact S.A.S.</li>
+                        <li>Quintero Giraldo y Cia – Papelería Lineal</li>
+                        <li>Realtur S.A. </li>
                         <li>Sebastian Yepes Music S.A.S.</li>
                         <li>Servicios Postales Nacionales S.A. – 472</li>
                         <li>Silvio Meza Galeano</li>
@@ -315,8 +347,6 @@
                         <li>V&V Quality S.A.</li>
                         <li>Wat Partners S.A.S.</li>
                         <li>Webde Development System S.A.S</li>
-
-
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -326,7 +356,8 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
                            
                           </ul>
                         </nav>
@@ -336,7 +367,6 @@
                     
                 </div>
             </div>
-        </div>
         </div>
 	</div>
 </div>

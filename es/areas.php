@@ -36,6 +36,7 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                            
                           </ul>
                         </nav>
@@ -57,7 +58,7 @@
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Emprendimiento</a></p>
                             <p class="texto">Manizales Más, luego de casi cinco años de creación, continúa transformando el modelo económico de la ciudad gracias a sus esfuerzos por sumar conocimiento a la acción para crear y crecer empresas.  </p>
-                            <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p><br>
+                            <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p>
                         </li>
                         <li>    
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Proyectos Especiales</a></p>
@@ -71,6 +72,7 @@
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                            
                           </ul>
                         </nav>
@@ -92,12 +94,37 @@
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Otras iniciativas de ciudad</a></p>
                             <p class="texto">Manizales Más, luego de casi cinco años de creación, continúa transformando el modelo económico de la ciudad gracias a sus esfuerzos por sumar conocimiento a la acción para crear y crecer empresas.  </p>
-                            <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p><br>
-                        </li>
+                            <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p>
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Proyectos Especiales</a></p>
                             <p class="texto">Apoyar iniciativas de ciudad que contribuyan a la construcción de ciudadanía, así como de una mejor ciudad para todos, es otra de las apuestas de nuestro trabajo. Manizales Cómo Vamos ha permitido tomar el pulso de la ciudad e impulsar acciones que han contribuido a que la capital de Caldas sea hoy considerada como la ciudad con mejor calidad de vida del país y donde la mayoría de sus habitantes se sienten orgullosos de vivir.  </p><br>
                         </li>
+                    </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger " data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                           
+                          </ul>
+                        </nav>
+                    </div>
+                    
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-2">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco">
+                    <br><br>
+                    <ul class="listaAzul">
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Proyectos Especiales</a></p>
                             <p class="texto">CasaLuker y Fundación Luker cumplen dos años de un trabajo conjunto que nos ha permitido avanzar en la construcción de un modelo de trabajo social para beneficio de las comunidades de interés de ambas organizaciones. El proyecto en alianza que emprendimos en Necoclí, nos permite evidenciar el potencial de impacto de esta reciente unión.   </p>
@@ -108,7 +135,8 @@
                           <ul class="pager">
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="2">2</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger " data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
                            
                           </ul>
                         </nav>
