@@ -28,7 +28,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br>  
+                <div class="col-sm-8 fondo-blanco texto">
                     <h4 class="subtitulo_texto azul">PARTICIPACIÓN DE <br><strong>LOS GRUPOS DE INTERÉS</strong></h4>              
                     <p>Manizales se caracteriza hoy en día por la capacidad que han desarrollado sus instituciones para establecer alianzas y trabajar en torno a objetivos comunes enfocados en el desarrollo de la ciudad.  </p>
                     <p>La Fundación Luker ha sido un actor importante en estos esfuerzos conjuntos, porque estamos seguros que el trabajo articulado con otras organizaciones locales, nacionales e internacionales permite hacer de Manizales una mejor ciudad. </p>

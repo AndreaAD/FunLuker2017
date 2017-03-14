@@ -58,17 +58,11 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco">
-                    
-                    <ul class="texto">
-                        <br><li>Se construyó la nueva versión de módulos para el desarrollo de la asignatura de Gestión de Negocios, con el objetivo de dar valor agregado a la formación de los jóvenes que cursan la educación media, desarrollando competencias y estrategias del emprendimiento de alto impacto y el enfoque de Pensamiento-Acción.</li>
-                    </ul>
-                    <h4 class="subtitulo_texto azul">La Universidad en Tu Colegio</strong></h4>     
-                    <p class="texto">En 2012 solo un 33% de los jóvenes egresados de los colegios públicos de Manizales ingresaban a la educación superior; las principales razones para esto estaban relacionadas con dificultades económicas y bajos resultados obtenidos en las pruebas de ingreso. Esta situación motivó a varias instituciones a aliarse para desarrollar un proyecto que facilitara el acceso a programas de educación técnica (en articulación con la media y tecnológica), para los estudiantes de las instituciones educativas públicas que hacen parte del proyecto Escuela Activa Urbana. Así nació La Universidad en Tu Colegio.</p>
-                    <ul class="texto">
-                        <li>La participación en el proyecto es gratuita para los estudiantes, pues la alianza cubre todos los costos del proceso.</li>
-                        <li>En 2016 se implementaron ocho programas de Formación Técnica Profesional, un programa Técnico Laboral y un programa del nivel Tecnológico, así:</li>
-                    </ul>
+                <div class="col-sm-8 fondo-blanco"><br>
+                    <h5 class="destacado azul">Addventure Más</h5>
+                    <p class="texto">Es un programa de aceleración intensiva dirigido a empresas en etapa temprana, que a lo largo de seis semanas enfrentan los principales retos de crecimiento. Los empresarios reciben entrenamiento, mentoría y asesoría personalizada. </p>
+                    <h5 class="destacado azul">La Ruta del Emprendimiento</h5>
+                    <p class="texto">Es un programa de formación orientado al fortalecimiento y al desarrollo de competencias en emprendimiento que les permita a los estudiantes pensar y actuar de manera emprendedora. Está compuesto por seis asignaturas: Emprendimiento, Marketing y Ventas para Emprendedores, Propiedad Intelectual para Emprendedores, Emprendimiento Social, Finanzas para Emprendedores y Gerencia de Empresas en Crecimiento.  </p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -97,14 +91,17 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
-                    <p class="texto">Tabla 1. Programas de formación de La Universidad en Tu Colegio en 2016.</p>
-                    <p><img src="img/tabla1.png" class="img-responsive"></p>
+                <div class="col-sm-8 fondo-blanco">
+                    <h4 class="subtitulo_texto azul">Innovaciones en 2016</strong></h4> 
                     <ul class="texto">
-                        <li>911 nuevos jóvenes matriculados en programas técnicos (corresponden al 70% de quienes cursan grado décimo en las instituciones de EAU).</li>
-                        <li>78 jóvenes inscritos en el nivel tecnológico. </li>
-                        <li>92 jóvenes recibieron el título de Técnico Profesional en Configuración de Servicios Comerciales Web, de la Universidad de Manizales.</li>
-                    </ul>
+                        <li>Se creó el programa Entidades de Soporte.</li>
+                        <li>Se realizó el primer entrenamiento de Babson College en Manizales para instituciones y líderes locales, regionales y nacionales. Durante dos días, los asistentes pensaron en el crecimiento de Manizales Más.</li>
+                        <li>En conjunto con Bancoldex y Actuar Microempresas se implementó un nuevo tipo de crédito, llamado “Crédito Emprendedor”. Manizales Más es el operador no financiero de este convenio, que se inicia como un piloto para ser replicado a nivel nacional. </li>
+                        <li>Se creó “La gira de emprendedores” que llevó una muestra de las experiencias de crecimiento del programa a los aliados y sus colaboradores.  </li>
+                        <li>Por primera vez los Affiliates entrenados por Babson tuvieron una experiencia directa de entrenamiento en los talleres de “Pensamiento y Acción Emprendedora” para los docentes de las universidades de SUMA. </li>
+                        <li>Se llevó a cabo un piloto para la identificación de nuevos perfiles de entrenadores, que complementen y acompañen las clases dictadas por lo docentes de Babson College.</li>
+
+                    </ul>  
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

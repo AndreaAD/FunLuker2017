@@ -28,7 +28,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br>  
+                <div class="col-sm-8 fondo-blanco texto">
                     <h4 class="subtitulo_texto azul">DIMENSIÓN  <br> <strong> ECONÓMICA</strong></h4>              
                     <p class="texto azul destacado">Origen y manejo de los recursos </p>
                     <p>Los recursos de la Fundación Luker se originan en la rentabilidad de su patrimonio: rendimientos financieros, dividendos y arrendamientos, lo que le permite contar con autonomía financiera y recursos para hacer inversión social. </p>

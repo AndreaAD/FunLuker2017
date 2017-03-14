@@ -25,7 +25,7 @@
                     <p class="texto">Los resultados de nuestro  trabajo en alianza,    nos confirma que esta es la mejor estrategia para alcanzar resultados sostenibles  que permitan  desarrollar el potencial de las personas y de las comunidades, para que puedan ser gestoras de su propio desarrollo.     </p>
                     <p class="texto">Proyectos como Escuela Activa Urbana, La Universidad en Tu Colegio y Manizales Campus Universitario, son buena muestra de ello.  </p>
                     <p class="texto">El primero recibió en 2016 un reconocimiento del Ministerio de Educación y la OCDE como interesante novedad, en su informe sobre revisión de políticas nacionales de educación. La Universidad en Tu Colegio sigue fortaleciendo su propuesta para que estudiantes de colegios oficiales que hacen parte del modelo EAU, puedan ingresar a programas de formación técnica y tecnológica en universidades e instituciones reconocidas de la ciudad y así contrarrestar los bajos niveles de absorción de los jóvenes a la educación superior.</p>
-                    <p class="texto">De otro lado, Manizales Campus Universitario terminó el 2016 con nuevos e importantes aliados que permiten fortalecer cada día más este proyecto y nos ayudan a </p>
+                    <p class="texto">De otro lado, Manizales Campus Universitario terminó el 2016 con nuevos e importantes aliados que permiten fortalecer cada día más este proyecto y nos ayudan a entender que vamos por buen camino, enfocados todos en el mismo objetivo: hacer de Manizales la primera ciudad universitaria de Colombia. </p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
