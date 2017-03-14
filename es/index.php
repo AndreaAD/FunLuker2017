@@ -3,9 +3,9 @@
     $activo_submenu = 1;
     include 'header.php'; 
 ?>
-<div class="container">
+<div class="container principal">
     <?php include 'submenu_presentacion.php';?>
-    <div class="row  pt-wrapper">
+    <div class="row pt-wrapper">
         <div class="col-sm-5 col-izq">
             <img src="img/Carta1.png" class="img_derecha hidden-xs" alt="">
         </div>

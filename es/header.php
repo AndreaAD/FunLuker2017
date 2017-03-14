@@ -18,7 +18,26 @@
     <link rel="stylesheet" href="css/mediaQueries.css">
     <title>Reporte de sostenibilidad 2017 : Fundación Luker</title>
 </head>
-<body id="presentacion">
+<?php
+
+    $color= '#FFFFFF';
+    switch ($activo) 
+    {
+        case '2':
+            $color= '#8BC53F';
+        break;
+        case '3':
+            $color= '#EF3E42';
+        break;
+        case '4':
+            $color= '#008AAB';
+        break;
+        case '5':
+            $color= '#F7B032';
+        break;
+    }
+?>
+<body id="presentacion" style="background-color: <?php echo $color; ?>">
     <div class="fluid menu">
         <div class="container">
             <div class="row cabecera">
