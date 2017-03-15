@@ -21,21 +21,21 @@
                 <div class="col-sm-8 fondo-blanco texto">
 
                     <h4 class="subtitulo_texto azul">La Fundación <br> Luker es:</h4>
-                    <h6>Ética</h6>
+                    <h5 class="azul destacado texto">Ética</h5>
                     <ul class="sinMargin">
                         <li>Honesta en sus relaciones con los demás y consigo misma</li>
                         <li>Coherente en el cumplimiento de sus principios</li>
                         <li>Transparente en sus actuaciones</li>
                     </ul>
                     <hr>
-                    <h6>Responsable</h6>
+                    <h5 class="azul destacado texto">Responsable</h5>
                     <ul class="sinMargin">
                         <li>En la búsqueda de la excelencia</li>
                         <li>En el manejo austero de sus recursos</li>
                         <li>En la evaluación de sus resultados e impactos</li>
                     </ul>
                     <hr>
-                    <h6>Respetuosa</h6>
+                    <h5 class="azul destacado texto">Respetuosa</h5>
                     <ul class="sinMargin">
                         <li>De las diferencias y la pluralidad democrática</li>
                         <li>De la dignidad y derechos de nuestros beneficiarios, aliados y colaboradores.</li>

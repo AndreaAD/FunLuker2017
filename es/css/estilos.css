@@ -83,9 +83,6 @@ h6.subtitulo {
 body#grupos .contenido ul li {
 	margin-bottom: 0px;
 }
-.contenido ul li {
-	margin-bottom: 20px;
-}
 .contenido ul.sinMargin li {
 	margin-bottom: 0px;
 }
@@ -778,8 +775,8 @@ a:link
  text-decoration:none;   
 }
 .listaAzul{
-	color:#008AAB;
 }
+
 .texto2{
 	font-family: 'Fira Sans Extra Condensed', sans-serif;
 }
@@ -789,10 +786,7 @@ a:link
 .rojo{
 	background-color: #EB0029;
 }
-.lista_grupos{
-	font-size: 14px;
-    line-height: 0px;
-}
+
 .azulMenu{
 	background-color: #008AAB;
 }
@@ -802,4 +796,9 @@ a:link
 }
 .amarillo{
 	background-color: #FAAF40;
+}
+ul .sinMargin.listaAzul li:before{
+
+  content: "• ";
+  color: red;
 }

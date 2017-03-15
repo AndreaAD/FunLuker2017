@@ -24,7 +24,7 @@
                     <span class="texto azul destacado">La Fundación Luker focaliza sus acciones en tres líneas: </span><span class="texto">Educación, Emprendimiento y Proyectos con CasaLuker. De igual forma, continúa apoyando la labor social de varias instituciones de la ciudad a través de sus Proyectos Especiales. </span><br><br>
                     <ul class="listaAzul">
                         <li>
-                            <p class="texto azul destacado"><a class="link_textos" href="educacion.php">Educación</a></p>
+                            <p class="texto azul destacado"><a class="link_textos" href="nuestro-trabajo.php">Educación</a></p>
                             <p class="texto">Hacer de Manizales la número uno en Educación es la meta que nos hemos trazado en la Fundación Luker. Es por esto que le hemos apostado a proyectos que aporten al mejoramiento de la educación en la ciudad, como condición para impulsar su progreso. </p>
                             <p class="texto">Escuela Activa Urbana, la Universidad en Tu Colegio y Aprende, permiten que los estudiantes desarrollen habilidades, adquieran conocimientos y fortalezcan aptitudes para enfrentar los desafíos y aprovechar  las oportunidades que ofrece el mundo actual con mejores herramientas. </p>
                             <p class="texto">Gracias a Manizales Campus Universitario se ha logrado rescatar el nombre de la capital caldense como la mejor ciudad universitaria de Colombia, lo cual ha despertado además el interés de las principales instituciones de la ciudad por pertenecer a este proyecto, con el cual Manizales será un lugar cada vez más atractivo para estudiantes propios y foráneos.</p>
@@ -36,7 +36,6 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                            
                           </ul>
                         </nav>
@@ -61,7 +60,7 @@
                             <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p>
                         </li>
                         <li>    
-                            <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Proyectos Especiales</a></p>
+                            <p class="texto azul destacado"><a class="link_textos" href="proyectos-especiales.php">Proyectos Especiales</a></p>
                             <p class="texto">La Fundación Luker, desde su área de Proyectos Especiales, apoya a diversas instituciones manizaleñas gracias al legado de su principal benefac¬tora, Inés Restrepo Mejía. Estas iniciativas le apuestan a mejorar las condiciones de vida de población vulnerable de la ciudad en temas de salud, nutrición, vivienda, educación y tercera edad. A través de nuestro aporte, buscamos honrar el compromiso de la Familia Restrepo con muchas causas sociales de la ciudad y mantener vivo su inmenso valor de solidaridad. </p>
                             <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p>
                         </li>
@@ -72,7 +71,6 @@
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                            
                           </ul>
                         </nav>
@@ -84,7 +82,7 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-2">
+        <div class="pt-page pt-page-3">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
@@ -92,12 +90,12 @@
                     <br><br>
                     <ul class="listaAzul">
                         <li>
-                            <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Otras iniciativas de ciudad</a></p>
+                            <p class="texto azul destacado"><a class="link_textos" href="proyectos-especiales.php">Otras iniciativas de ciudad</a></p>
                             <p class="texto">Manizales Más, luego de casi cinco años de creación, continúa transformando el modelo económico de la ciudad gracias a sus esfuerzos por sumar conocimiento a la acción para crear y crecer empresas.  </p>
                             <p class="texto">Esta iniciativa se ha consolidado como la alianza académica público-privada por el emprendimiento más importante del país. </p>
                         <li>
-                            <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Proyectos Especiales</a></p>
-                            <p class="texto">Apoyar iniciativas de ciudad que contribuyan a la construcción de ciudadanía, así como de una mejor ciudad para todos, es otra de las apuestas de nuestro trabajo. Manizales Cómo Vamos ha permitido tomar el pulso de la ciudad e impulsar acciones que han contribuido a que la capital de Caldas sea hoy considerada como la ciudad con mejor calidad de vida del país y donde la mayoría de sus habitantes se sienten orgullosos de vivir.  </p><br>
+                            <p class="texto azul destacado"><a class="link_textos" href="proyecto-casaluker.php">Proyectos con CasaLuker</a></p>
+                            <p class="texto">CasaLuker y Fundación Luker cumplen dos años de un trabajo conjunto que nos ha permitido avanzar en la construcción de un modelo de trabajo social para beneficio de las comunidades de interés de ambas organizaciones. El proyecto en alianza que emprendimos en Necoclí, nos permite evidenciar el potencial de impacto de esta reciente unión.  </p><br>
                         </li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
@@ -106,37 +104,6 @@
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                           
-                          </ul>
-                        </nav>
-                    </div>
-                    
-                </div>
-                <div class="col-sm-3 col-izq">
-                    
-                </div>
-            </div>
-        </div>
-        <div class="pt-page pt-page-2">
-            <div class="row contenido">
-                <div class="col-sm-5 col-izq">
-                </div>
-                <div class="col-sm-8 fondo-blanco">
-                    <br><br>
-                    <ul class="listaAzul">
-                        <li>
-                            <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Proyectos Especiales</a></p>
-                            <p class="texto">CasaLuker y Fundación Luker cumplen dos años de un trabajo conjunto que nos ha permitido avanzar en la construcción de un modelo de trabajo social para beneficio de las comunidades de interés de ambas organizaciones. El proyecto en alianza que emprendimos en Necoclí, nos permite evidenciar el potencial de impacto de esta reciente unión.   </p>
-                        </li>
-                    </ul>
-                    <div class="paginacion pt-trigger-container">
-                        <nav>
-                          <ul class="pager">
-                            <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
-                            <li><a href="#" class="pt-trigger " data-animation="17" data-goto="2">2</a></li>
-                            <li><a href="#" class="pt-trigger " data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
                            
                           </ul>
                         </nav>

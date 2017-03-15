@@ -83,7 +83,7 @@
                         Programas, iniciativas y movilizaciones sociales de la ciudad
                     </p>                
                     <h5 class="destacado azul">Aliados, proveedores y organizaciones beneficiarias 2016</h5><br>
-                    <ul class="lista_grupos">
+                    <ul>
                         <li>Actuar Microempresas</li>
                         <li>Alcaldía de Manizales</li>
                         <li>Alcaldía de Necoclí</li>
@@ -102,10 +102,7 @@
                         <li>Congregación Hijas de los Sagrados Corazones de Jesús y de María, Instituto Ravasco </li>
                         <li>Coopsaludcom</li>
                         <li>Corporación Alberto Arango Restrepo, Ceder</li>
-                        <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>
-                        <li>Corporación para el Desarrollo de Caldas</li>
-                        <li>Estoy con Manizales</li>
-                        
+                        <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>              
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -132,7 +129,9 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>              
-                    <ul class="lista_grupos">
+                    <ul>
+                        <li>Corporación para el Desarrollo de Caldas</li>          
+                        <li>Estoy con Manizales</li>
                         <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
                         <li>Federación Nacional de Comerciantes, Fenalco - Seccional Caldas </li>
                         <li>Financiera de Desarrollo Territorial, Findeter</li>
@@ -158,10 +157,6 @@
                         <li>Monasterio La Visitación de María Santísima</li>
                         <li>Municipio de Manizales - Secretaría de Educación Municipal</li>
                         <li>Municipio de Manizales - Secretaría de Salud</li>
-                        <li>Municipio de Manizales - Secretaría de TIC y Competitividad</li>
-                        <li>Obras Sociales Betania </li>
-                        <li>Organizaciones de la Alianza por la Educación</li>
-                        
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -188,6 +183,10 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
+                    <ul>
+                        <li>Municipio de Manizales - Secretaría de TIC y Competitividad</li>
+                        <li>Obras Sociales Betania </li>
+                        <li>Organizaciones de la Alianza por la Educación</li>
                         <li>Parque Tecnológico del Software, Parquesoft</li>
                         <li>Programa Manizales Cómo Vamos</li>
                         <li>Red de Emprendimiento de Caldas</li>
@@ -228,7 +227,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
                 <h5 class="destacado azul">Contratistas 2016</h5><br>                
-                    <ul class="lista_grupos">
+                    <ul>
                         <li>Almera - Information Management Limitada</li>
                         <li>A.B.C. publicidad integral</li>
                         <li>Adriana García Triana</li>
@@ -253,8 +252,6 @@
                         <li>Data 3.000</li>
                         <li>David Ávila Giraldo – Pigxel</li>
                         <li>Deloitte & Touche Ltda.</li>
-                        <li>Ecoglobal Print</li>
-                        <li>Editorial Blanecolor S.A.S.</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -281,7 +278,9 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
-                    <ul class="lista_grupos">
+                    <ul>
+                        <li>Ecoglobal Print</li>
+                        <li>Editorial Blanecolor S.A.S.</li>
                         <li>Editorial La Patria S.A.</li>
                         <li>Editorial Litoprint</li>
                         <li>Eduardo Aristizabal Jiménez</li>
@@ -307,9 +306,6 @@
                         <li>Jorge Armando Virviescas Nieto</li>
                         <li>Juan Uribe Rojas</li>
                         <li>KPMG Ltda.</li>
-                        <li>La Gota de Leche</li>
-                        <li>Liliana López Cardona</li>
-                        <li>Luis Felipe Trujillo Henao</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -336,7 +332,10 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
-                    <ul class="lista_grupos">
+                    <ul>
+                        <li>La Gota de Leche</li>
+                        <li>Liliana López Cardona</li>
+                        <li>Luis Felipe Trujillo Henao</li>
                         <li>Misael Alejandro Peralta Rodríguez</li>
                         <li>Mónica María Bedoya Rojas</li>
                         <li>Natalia Franco Ramírez</li>

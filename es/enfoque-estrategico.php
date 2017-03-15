@@ -21,9 +21,9 @@
                 <div class="col-sm-8 fondo-blanco">
                     <h4 class="subtitulo_texto azul">ENFOQUE <br><strong>ESTRATÉGICO</strong></h4>
                     <p class="texto">La Fundación Luker, con el apoyo de un asesor externo en Comunicaciones, construyó en 2016 el mensaje que nos ayudará a transmitir con mayor claridad y contundencia nuestra misión y nuestra visión organizacional, partiendo del ejercicio de revisión estratégica realizada un año antes.</p><br>
-                    <h5 class="subtitulo_texto_medio">MISIÓN</h5>
+                    <h5 class="texto destacado azul">MISIÓN</h5>
                     <p class="texto">“Generar desarrollo económico y social, mediante trabajo en alianzas nacionales y/o internacionales, con proyectos transformadores y de alto impacto en educación y emprendimiento, que empoderen individuos, instituciones y comunidades”.</p>
-                    <h5 class="subtitulo_texto_medio">VISIÓN</h5>
+                    <h5 class="texto destacado azul">VISIÓN</h5>
                     <p class="texto">“La Fundación Luker tiene la capacidad y el conocimiento para transformar comunidades y es reconocida por los significativos logros en educación y emprendimiento”.</p>
                 </div>
                 <div class="col-sm-3 col-izq">

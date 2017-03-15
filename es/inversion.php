@@ -37,10 +37,6 @@
                         <nav>
                           <ul class="pager">
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="1">1</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                            
                           </ul>
                         </nav>
