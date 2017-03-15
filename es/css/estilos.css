@@ -413,13 +413,13 @@ body#enfoque h5 {
 	padding: 10px 26px;
 }
 .img_derecha{
-	margin-top: 65px;
-    width: 341px;
-}
-.img_izquierda{
 	margin-top: 111px;
     margin-left: 26px;
     width: 206px;
+}
+.img_izquierda{
+	margin-top: 65px;
+    width: 341px;
 }
 /*menu*/
 .menu {

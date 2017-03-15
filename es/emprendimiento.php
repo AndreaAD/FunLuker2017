@@ -9,7 +9,7 @@
         <div class="pt-page pt-page-1">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend1.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN EMPRENDIMIENTO</strong></h4>     
@@ -40,14 +40,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend2.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend2.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend3.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <h5 class="destacado azul">Addventure Más</h5>
@@ -71,14 +71,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend4.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend4.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend5.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <h4 class="subtitulo_texto azul">Innovaciones en 2016</strong></h4> 
@@ -108,14 +108,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend6.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend6.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend7.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <h4 class="subtitulo_texto azul">Lo más destacado en 2016</strong></h4> 
@@ -149,14 +149,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend8.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend8.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend9.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <ul class="texto">
@@ -183,14 +183,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend10.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend10.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend11.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <ul class="texto">
@@ -224,14 +224,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend12.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend12.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend13.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>   
                     <p class="texto">Tabla 4. Inversión en emprendimiento para el desarrollo.</p>
@@ -253,14 +253,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend14.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend14.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend15.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <p class="texto">Tabla 5. Beneficiarios de los proyectos de emprendimiento</p>
@@ -282,14 +282,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend16.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend16.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
-                    <img src="img/emprend17.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
@@ -318,7 +318,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    <img src="img/emprend18.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/emprend18.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
