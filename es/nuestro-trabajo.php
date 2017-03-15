@@ -6,17 +6,10 @@
 <div class="container principal">
     <?php include 'submenu_nuestro_trabajo.php';?> 
     <div class="row  pt-wrapper">
-        <div class="col-sm-5 col-izq">
-            <img src="img/educacion1.png" class="img_derecha hidden-xs" alt="">
-        </div>
-        <div class="col-sm-8">
-        </div>
-        <div class="col-sm-3 col-izq">
-            <img src="img/educacion2.png" class="img_izquierda hidden-xs" alt="">
-        </div>
         <div class="pt-page pt-page-1">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion1.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <h4 class="subtitulo_texto azul">Escuela Activa Urbana</strong></h4>     
@@ -49,13 +42,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion2.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion3.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     
@@ -88,13 +82,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion4.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion5.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <p class="texto">Tabla 1. Programas de formación de La Universidad en Tu Colegio en 2016.</p>
@@ -124,13 +119,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion6.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion7.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <ul class="texto">
@@ -161,13 +157,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion8.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion9.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <h4 class="subtitulo_texto azul">Alianza para el Reforzamiento Escolar de Niños con Desafíos, Aprende</strong></h4>     
@@ -197,13 +194,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion10.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion11.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <ul class="texto">
@@ -233,13 +231,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion12.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion13.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>   
                     <h4 class="subtitulo_texto azul">Principales resultados e innovaciones en 2016</h4>
@@ -272,13 +271,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion14.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion15.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br><br>
                     <ul class="texto">
@@ -309,13 +309,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion16.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion17.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <h4 class="subtitulo_texto azul">Principales riesgos y/o oportunidades</h4>
@@ -356,13 +357,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion18.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-10">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion19.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br><br>
                     <h5 class="destacado azul">Oportunidades</h5>
@@ -400,13 +402,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion20.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-11">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion21.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <p class="texto">Tabla 2. Inversión en Educación para el desarrollo.</p>
@@ -432,13 +435,14 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion22.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-12">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
+                    <img src="img/educacion23.png" class="img_derecha hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
                     <p class="texto">Tabla 3. Beneficiarios de los proyectos de educación</p>
@@ -464,7 +468,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+                    <img src="img/educacion24.png" class="img_izquierda hidden-xs" alt="">
                 </div>
             </div>
         </div>

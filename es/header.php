@@ -27,7 +27,7 @@
             $color= '#8BC53F';
         break;
         case '3':
-            $color= '#EF3E42';
+            $color= '#EB0029';
         break;
         case '4':
             $color= '#008AAB';
