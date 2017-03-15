@@ -12,10 +12,18 @@
     <link rel="stylesheet" href="es/css/mediaQueries.css">
 </head>
 <body id="portada">
-        <div class="reporte">
-            <button type="button" class="btn btn-warning" onClick="location.href='es/index.php'"><a href=""></a>ESPAÑOL</button>
-            <button type="button" class="btn btn-warning" onClick="location.href='en/index.php'" ><a href=""></a>ENGLISH</button>
-        </div>
-        <script src="es/js/jquery-1.9.1.min.js"></script>
+    <section class="banner">
+        <img src="arbol.png" alt="" class="arbol">
+        <img src="arbol.png" alt="" class="arbol">
+        <img src="principal.png" alt="" class="main">
+    </section>
+    <section class="logo">
+        <button type="button" onClick="location.href='en/index.php'">ENGLISH</button>
+        <button type="button" onClick="location.href='es/index.php'">ESPAÑOL</button>
+        <img src="logo.png" alt="">
+    </section>
+    <div class="reporte">
+    </div>
+    <script src="es/js/jquery-1.9.1.min.js"></script>
 </body>
 </html>
