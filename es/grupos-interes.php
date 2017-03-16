@@ -47,8 +47,6 @@
                         Ciudadanía de Manizales <br>
                         Aliados <br>
                         Beneficiarios de los programas <br>
-                        Gobiernos (Municipal, Departamental, Nacional) <br>
-                        Proveedores <br>
                     </p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -76,6 +74,9 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
                     <p class="indentado">
+                    
+                        Gobiernos (Municipal, Departamental, Nacional) <br>
+                        Proveedores <br>
                         Universidades, colegios y centros de investigación
         Zonas de influencia de algunos proyectos agrícolas de CasaLuker
                    Programas, Iniciativas y movilizaciones sociales de la ciudad <br>
@@ -100,9 +101,7 @@
                         <li>Comité Asesor Voluntario de Nutrición, Nutrir</li>
                         <li>Comité Intergremial de Caldas</li>
                         <li>Congregación Hijas de los Sagrados Corazones de Jesús y de María, Instituto Ravasco </li>
-                        <li>Coopsaludcom</li>
-                        <li>Corporación Alberto Arango Restrepo, Ceder</li>
-                        <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>              
+                              
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -129,7 +128,9 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>              
-                    <ul>
+                    <ul><li>Coopsaludcom</li>
+                        <li>Corporación Alberto Arango Restrepo, Ceder</li>
+                        <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>        
                         <li>Corporación para el Desarrollo de Caldas</li>          
                         <li>Estoy con Manizales</li>
                         <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
@@ -153,10 +154,7 @@
                         <li>Innpulsa</li>
                         <li>Instituciones Educativas EAU</li>
                         <li>Instituto de Investigación en Salud de la Universidad de Caldas</li>
-                        <li>Inversiones Necoclí S.A.</li>
-                        <li>Monasterio La Visitación de María Santísima</li>
-                        <li>Municipio de Manizales - Secretaría de Educación Municipal</li>
-                        <li>Municipio de Manizales - Secretaría de Salud</li>
+                       
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -183,7 +181,10 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
-                    <ul>
+                    <ul> <li>Inversiones Necoclí S.A.</li>
+                        <li>Monasterio La Visitación de María Santísima</li>
+                        <li>Municipio de Manizales - Secretaría de Educación Municipal</li>
+                        <li>Municipio de Manizales - Secretaría de Salud</li>
                         <li>Municipio de Manizales - Secretaría de TIC y Competitividad</li>
                         <li>Obras Sociales Betania </li>
                         <li>Organizaciones de la Alianza por la Educación</li>
@@ -251,7 +252,6 @@
                         <li>Daniela Nieto Jaramillo</li>
                         <li>Data 3.000</li>
                         <li>David Ávila Giraldo – Pigxel</li>
-                        <li>Deloitte & Touche Ltda.</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -279,6 +279,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
                     <ul>
+                        <li>Deloitte & Touche Ltda.</li>
                         <li>Ecoglobal Print</li>
                         <li>Editorial Blanecolor S.A.S.</li>
                         <li>Editorial La Patria S.A.</li>
@@ -304,8 +305,6 @@
                         <li>Jardín Infantil Chinchiná</li>
                         <li>Jhon Fredy Sánchez Hincapié</li>
                         <li>Jorge Armando Virviescas Nieto</li>
-                        <li>Juan Uribe Rojas</li>
-                        <li>KPMG Ltda.</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -333,6 +332,8 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
                     <ul>
+                        <li>Juan Uribe Rojas</li>
+                        <li>KPMG Ltda.</li>
                         <li>La Gota de Leche</li>
                         <li>Liliana López Cardona</li>
                         <li>Luis Felipe Trujillo Henao</li>

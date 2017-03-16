@@ -3,7 +3,7 @@
     $activo_submenu = 4;
     include 'header.php'; 
 ?>
-<div class="container">
+<div class="container principal">
     <?php include 'submenu_presentacion.php';?>
     <div class="row  pt-wrapper">
         <div class="col-sm-5 col-izq">
