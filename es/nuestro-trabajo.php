@@ -12,7 +12,7 @@
                     <img src="img/educacion1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">Escuela Activa Urbana</strong></h4>     
+                    <h4 class="subtitulo_texto azul">Escuela <br><strong>Activa Urbana</strong></h4>     
                     <p class="texto">Desde 2002 la alianza Secretaría de Educación de Manizales - Fundación Luker implementa el modelo pedagógico Escuela Activa Urbana (EAU), con el objetivo de mejorar la calidad de la educación de colegios oficiales que atienden población en situación de vulnerabilidad en la ciudad. </p>
                     <p class="texto">EAU fomenta un aprendizaje activo, participativo y cooperativo, así como habilidades para el análisis, la creatividad y la investigación. El modelo también promueve la formación de habilidades cognitivas y no cognitivas (sociales y emocionales), favoreciendo la integración de la comunidad educativa. </p><br>
                     <ul class="texto">
@@ -56,7 +56,7 @@
                     <ul class="texto">
                         <br><li>Se construyó la nueva versión de módulos para el desarrollo de la asignatura de Gestión de Negocios, con el objetivo de dar valor agregado a la formación de los jóvenes que cursan la educación media, desarrollando competencias y estrategias del emprendimiento de alto impacto y el enfoque de Pensamiento-Acción.</li>
                     </ul>
-                    <h4 class="subtitulo_texto azul">La Universidad en Tu Colegio</strong></h4>     
+                    <h5 class="destacado azul">La Universidad en Tu Colegio</strong></h5>     
                     <p class="texto">En 2012 solo un 33% de los jóvenes egresados de los colegios públicos de Manizales ingresaban a la educación superior; las principales razones para esto estaban relacionadas con dificultades económicas y bajos resultados obtenidos en las pruebas de ingreso. Esta situación motivó a varias instituciones a aliarse para desarrollar un proyecto que facilitara el acceso a programas de educación técnica (en articulación con la media y tecnológica), para los estudiantes de las instituciones educativas públicas que hacen parte del proyecto Escuela Activa Urbana. Así nació La Universidad en Tu Colegio.</p>
                     <ul class="texto">
                         <li>La participación en el proyecto es gratuita para los estudiantes, pues la alianza cubre todos los costos del proceso.</li>
@@ -167,7 +167,7 @@
                     <img src="img/educacion9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
-                    <h4 class="subtitulo_texto azul">Alianza para el Reforzamiento Escolar de Niños con Desafíos, Aprende</strong></h4>     
+                    <h5 class="destacado azul">Alianza para el Reforzamiento Escolar de Niños con Desafíos, Aprende</strong></h5>     
                     <p class="texto">El proyecto Aprende tiene como objetivo fundamental diseñar, implementar y evaluar innovaciones educativas para fortalecer competencias básicas de estudiantes de instituciones educativas oficiales de Manizales y generar conocimientos para la región sobre la efectividad de los programas de refuerzo académico en la enseñanza de lectura y matemáticas. </p>
                     <p class="texto">En 2016 se realizaron las siguientes intervenciones que son, cada una de ellas, innovaciones educativas para la ciudad. </p><br>
                     <ul class="texto">
@@ -209,7 +209,7 @@
                     </ul>
                     <p class="texto">Con la Secretaría de Educación de Manizales, el Programa de Padrinos que hace parte de Aprende se contribuye al mejoramiento de los resultados de las pruebas SABER de grados 3o y 5o, mediante el acompañamiento a colegios con el más bajo desempeño en el Índice Sintético de Calidad Educativa (ISCE). Para ello se  aprovecha la experiencia y el conocimiento de las instituciones educativas de mejores resultados y la experiencia internacional de expertos en estos temas.  </p>
                     <p class="texto"><strong class=" destacado azul">NOTA:</strong> Las intervenciones de Aprende son evaluadas a través de las pruebas diagnósticas <strong>EGRA</strong> (Early Grade Reading Assessment) y <strong>EGMA</strong> (Early Grade Math Assessment). Se realizan pruebas de línea de base y de línea final por cada intervención. </p><br>    
-                    <h4 class="subtitulo_texto azul">Manizales Campus Universitario</strong></h4>
+                    <h5 class="destacado azul">Manizales Campus Universitario</strong></h5>
                     <p class="texto">La visión del programa es hacer de Manizales un campus universitario de clase mundial con el concurso del sector académico, el privado y el gobierno de la ciudad. El programa fortalece una oferta académica, cultural y de servicios de alta calidad especialmente diseñados para atraer y formar estudiantes nacionales y extranjeros que tendrán una experiencia de vida sin igual, en un entorno reconocido por su cultura, biodiversidad y calidad de vida.</p>    
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -241,7 +241,7 @@
                     <img src="img/educacion13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>   
-                    <h4 class="subtitulo_texto azul">Principales resultados e innovaciones en 2016</h4>
+                    <h5 class="destacado azul">Principales resultados e innovaciones en 2016</h5>
                         <ul class="texto">
                             <li>Se sumaron nuevos aliados: Fenalco, Findeter, Gobernación de Caldas, Comité Integremial de Caldas, Centro Colombo Americano, ANDI, Alcaldía de Manizales.</li>
                             <li>Se realizó una pasantía a Valparaíso (Chile) y a Mendoza (Argentina), para conocer su experiencia como ciudades universitarias. </li>
@@ -287,7 +287,7 @@
                         <li>Se abrió la Oficina de la Bici para impulsar campañas de uso de la bicicleta con visitas a colegios, universidades y empresas de la ciudad. </li>
                         <li>Se hizo presencia en Expoestudiante Nacional- Bogotá donde se mostró a Manizales como ciudad universitaria en todas sus dimensiones (94.478 asistentes a la feria). </li>
                     </ul>
-                    <h4 class="subtitulo_texto azul">Participación en política pública</h4>
+                    <h5 class="destacado azul">Participación en política pública</h5>
                     <p class="texto">El proyecto Escuela Activa Urbana se consolida cada vez más como un programa fundamental para el mejoramiento de la calidad educativa de Manizales. El proyecto ha sido apoyado por seis administraciones municipales, incluida la posesionada en enero de 2016, que ha considerado esta iniciativa como una de sus principales estrategias de calidad y ha dado su apoyo al crecimiento del proyecto La Universidad en Tu Colegio.</p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -319,7 +319,7 @@
                     <img src="img/educacion17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
-                    <h4 class="subtitulo_texto azul">Principales riesgos y/o oportunidades</h4>
+                    <h5 class="destacado azul">Principales riesgos y/o oportunidades</h5>
                     <h5 class="destacado azul">Escuela Activa Urbana:</h5>
                     <h5 class="destacado azul">Riesgos</h5>
                     <ul class="texto">

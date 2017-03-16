@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
 
-                    <h4 class="subtitulo_texto azul">La Fundación <br> Luker es:</h4>
+                    <h4 class="subtitulo_texto azul">La Fundación <br><strong>Luker es</strong></h4>
                     <h5 class="azul destacado texto">Ética</h5>
                     <ul class="sinMargin">
                         <li>Honesta en sus relaciones con los demás y consigo misma</li>

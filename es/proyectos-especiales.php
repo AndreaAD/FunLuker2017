@@ -12,7 +12,7 @@
                     <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN PROYECTOS ESPECIALES Y OTRAS INICIATIVAS DE CIUDAD</strong></h4>     
+                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN PROYECTOS ESPECIALES <br><strong> Y OTRAS INICIATIVAS DE CIUDAD</strong></h4>     
                     <h5 class="destacado azul">PROYECTOS ESPECIALES</h5>
                     <p class="texto">Los proyectos especiales de la Fundación le apuntan a desarrollar iniciativas de impacto en nutrición, vivienda, salud y tercera edad, y a contribuir con la labor social de instituciones de la ciudad. </p>
                     <p class="texto">A través del área de Proyectos Especiales apoyamos y acompañamos en 2016, doce organizaciones sociales que trabajan con población vulnerable: Nutrir, Monasterio La Visitación de María Santísima, Fundación San Ezequiel Moreno, Seminario Mayor de Nuestra Señora, Colegio Eugenia Ravasco, Fundación Obras Sociales Betania, Religiosas Adoratrices, Fundación Alejandra Vélez Mejía, Corporación Ceder, Hogar San Judas Tadeo, Hogar Guadalupe y Hogar San Francisco de Asís.</p>

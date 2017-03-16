@@ -12,7 +12,7 @@
                     <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN EMPRENDIMIENTO</strong></h4>     
+                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO <br><strong> EN EMPRENDIMIENTO</strong></h4>     
                     <p class="texto">A través de Manizales Más, la alianza para el desarrollo integral del ecosistema de emprendimiento de Manizales, se trabajó durante 2016 en seis programas: Empresas de Alto Potencial, Mentoría Empresarial, Profesores de Alto Potencial, Startup Más, Addventure Más y La Ruta del Emprendimiento.</p>
                     <h5 class="destacado azul">Empresas de Alto Potencial, EAP</h5>
                     <p class="texto">Es un entrenamiento en nuevas capacidades, con apoyo de mentores y relacionamiento, diseñado para ayudar a incrementar las ventas y las utilidades. Lleva a los empresarios a crecer de forma acelerada.</p>
@@ -81,7 +81,7 @@
                     <img src="img/emprend5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">Innovaciones en 2016</strong></h4> 
+                    <h5 class="destacado azul">Innovaciones en 2016</strong></h5> 
                     <ul class="texto">
                         <li>Se creó el programa Entidades de Soporte.</li>
                         <li>Se realizó el primer entrenamiento de Babson College en Manizales para instituciones y líderes locales, regionales y nacionales. Durante dos días, los asistentes pensaron en el crecimiento de Manizales Más.</li>
@@ -118,7 +118,7 @@
                     <img src="img/emprend7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">Lo más destacado en 2016</strong></h4> 
+                    <h5 class="destacado azul">Lo más destacado en 2016</strong></h5> 
                     <ul class="texto">
                         <li>56 empresas de Alto Potencial crecieron un 49% en promedio durante el año.</li>
                         <li>Dos nuevos aliados para Manizales más: Gobernación de Caldas e Innpulsa</li>

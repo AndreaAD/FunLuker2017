@@ -19,7 +19,7 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">ACERCA DE ESTE INFORME </h4>
+                    <h4 class="subtitulo_texto azul">ACERCA DE <br> <strong>ESTE INFORME</strong></h4>
                     <p class="texto">Una vez más y por sexto año consecutivo, nos complacemos en presentarles nuestro Reporte de Sostenibilidad 2016, en el cual incluimos los principales resultados e impactos logrados en cada una de las áreas de trabajo, basándonos en los indicadores aplicables de la metodología GRI (Global Reporting Initiative), especialmente aquellos del suplemento para ONG. Este documento explica entonces, las principales acciones realizadas por la Fundación tanto en el aspecto social como en el económico. </p>
                     <p class="texto">En sus manos tiene la versión corta de nuestro informe, la cual contiene un resumen del documento completo, el cual podrá descargar de nuestra página web en el link www.fundacionluker.org.co/informedesostenibilidad2016, a partir del 24 de abril de 2017. </p>
                    

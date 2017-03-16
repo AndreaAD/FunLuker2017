@@ -20,7 +20,7 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">Áreas de trabajo</h4>
+                    <h4 class="subtitulo_texto azul">Áreas de <br><strong>trabajo</strong></h4>
                     <span class="texto azul destacado">La Fundación Luker focaliza sus acciones en tres líneas: </span><span class="texto">Educación, Emprendimiento y Proyectos con CasaLuker. De igual forma, continúa apoyando la labor social de varias instituciones de la ciudad a través de sus Proyectos Especiales. </span><br><br>
                     <ul class="listaAzul">
                         <li>

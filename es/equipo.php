@@ -20,6 +20,7 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    <h4 class="subtitulo_texto azul">Equipo <br> <strong>de trabajo</strong></h4>
                     <h5 class="azul destacado">Junta Directiva</h5>
                     <ul class="sinMargin listaAzul">
                         <li>José Alfredo Restrepo Echeverri</li>

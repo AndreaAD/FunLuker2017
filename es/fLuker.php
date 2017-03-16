@@ -19,7 +19,7 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">LA FUNDACIÓN <br>LUKER </h4>
+                    <h4 class="subtitulo_texto azul">LA FUNDACIÓN <br><strong>LUKER</strong></h4>
                     <p class="texto">22 años de trabajo ininterrumpido nos han permitido convencernos de que una persona educada y emprendedora transforma su entorno y genera desarrollo. Por eso enfocamos nuestros esfuerzos en hacer de Manizales una ciudad líder en Educación y Emprendimiento.  </p>
                     <p class="texto">Los proyectos que se impulsan desde la Fundación han seguido consolidándose durante 2016 gracias al trabajo en alianza con diversos socios, sin duda una importante clave para alcanzar resultados relevantes en cada uno de ellos. Así lo respaldan los reconocimientos recibidos por Escuela Activa Urbana, las primeras promociones de técnicos de La Universidad en Tu Colegio, el fortalecimiento institucional de Manizales Campus Universitario y el estudio longitudinal y evaluación del programa piloto Alimentamor, que muestra resultados importantes en nutrición, salud y entorno de los bebés beneficiados, por mencionar solo algunos ejemplos. </p>
                     <p class="texto">La Fundación también continuó apoyando a través de sus proyectos especiales, el trabajo de muchas organizaciones que enfocan sus acciones en mejorar la calidad de vida de diversas poblaciones vulnerables de nuestra ciudad, así como promocionando iniciativas de ciudad como Manizales Cómo Vamos y Batuta. </p>
