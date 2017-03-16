@@ -580,11 +580,14 @@ a.language:hover {
 	color: #512B1C;
 	background-color: #FBEED5;
 }
+.paginacion .pager li {
+	margin: 0 7px;
+}
 .paginacion .pager li>a {
 	color: #fff;
 	border: none;
 	background-color: transparent;
-	padding: 2px 9px;
+	padding: 0px 6px;
 }
 .paginacion .pager li>a:focus, 
 .paginacion .pager li>a:hover, 
