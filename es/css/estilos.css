@@ -675,10 +675,12 @@ body#presentacion .paginacion .pager li>a {
 	border-top: 5px solid #dbcece;
 }
 .footer p {
-	margin: 5px;
  	font-size: 11px;
- 	color: #fff;
  	font-weight: 300;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    font-size: 11px;
+    color: #646569;
 }
 .footer img {
 	-webkit-filter: sepia(.7);
