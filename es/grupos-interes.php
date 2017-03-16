@@ -42,12 +42,7 @@
                         Equipo de trabajo <br>
                         CasaLuker
                     </p>
-                    <h6>Externos:</h6>
-                    <p class="indentado">
-                        Ciudadanía de Manizales <br>
-                        Aliados <br>
-                        Beneficiarios de los programas <br>
-                    </p>
+                   
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -58,6 +53,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
@@ -73,8 +69,11 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
+                 <h6>Externos:</h6>
                     <p class="indentado">
-                    
+                        Ciudadanía de Manizales <br>
+                        Aliados <br>
+                        Beneficiarios de los programas <br>
                         Gobiernos (Municipal, Departamental, Nacional) <br>
                         Proveedores <br>
                         Universidades, colegios y centros de investigación
@@ -93,15 +92,7 @@
                         <li>Asociación Luisas de Marillac</li>
                         <li>Babson College</li>
                         <li>Banco interamericano de Desarrollo, BID</li>
-                        <li>Caja de Compensación Familiar de Caldas, Confa</li>
-                        <li>Cámara de Comercio de Manizales por Caldas</li>
-                        <li>CasaLuker </li>
-                        <li>Centro Colombo Americano</li>
-                        <li>CHEC S.A. E.S.P.</li>
-                        <li>Comité Asesor Voluntario de Nutrición, Nutrir</li>
-                        <li>Comité Intergremial de Caldas</li>
-                        <li>Congregación Hijas de los Sagrados Corazones de Jesús y de María, Instituto Ravasco </li>
-                              
+                        <li>Caja de Compensación Familiar de Caldas, Confa</li>                              
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -113,6 +104,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
@@ -127,8 +119,16 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br><br>              
-                    <ul><li>Coopsaludcom</li>
+                <div class="col-sm-8 fondo-blanco texto"><br><br>
+                    <ul>
+                        <li>Coopsaludcom</li>
+                        <li>Cámara de Comercio de Manizales por Caldas</li>
+                        <li>CasaLuker </li>
+                        <li>Centro Colombo Americano</li>
+                        <li>CHEC S.A. E.S.P.</li>
+                        <li>Comité Asesor Voluntario de Nutrición, Nutrir</li>
+                        <li>Comité Intergremial de Caldas</li>
+                        <li>Congregación Hijas de los Sagrados Corazones de Jesús y de María, Instituto Ravasco </li>              
                         <li>Corporación Alberto Arango Restrepo, Ceder</li>
                         <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>        
                         <li>Corporación para el Desarrollo de Caldas</li>          
@@ -140,21 +140,9 @@
                         <li>Fundación Bolívar Davivienda</li>
                         <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
                         <li>Fundación Corona</li>
-                        <li>Fundación Empresarios por la Educación, ExE</li>
-                        <li>Fundación Éxito</li>
-                        <li>Fundación Fesco</li>
-                        <li>Fundación Mario Santo Domingo</li>
-                        <li>Fundación Orquestas Juveniles e Infantiles de Caldas, Batuta Caldas</li>
-                        <li>Fundacion Saldarriaga Concha</li>
-                        <li>Fundación San Ezequiel Moreno</li>
-                        <li>Gobernación de Antioquia</li>
-                        <li>Gobernación de Caldas</li>
-                        <li>Harvard University</li>
-                        <li>Hogar San Judas Tadeo</li>
-                        <li>Innpulsa</li>
-                        <li>Instituciones Educativas EAU</li>
-                        <li>Instituto de Investigación en Salud de la Universidad de Caldas</li>
-                       
+                        <li>Fundación Empresarios por la Educación, ExE</li>    
+                        <li>Fundación Éxito</li>   
+                        <li>Fundación Fesco</li>                
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -166,6 +154,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
@@ -181,7 +170,18 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
-                    <ul> <li>Inversiones Necoclí S.A.</li>
+                    <ul>
+                        <li>Fundación Mario Santo Domingo</li>
+                        <li>Fundación Orquestas Juveniles e Infantiles de Caldas, Batuta Caldas</li>
+                        <li>Fundacion Saldarriaga Concha</li>
+                        <li>Fundación San Ezequiel Moreno</li>
+                        <li>Gobernación de Antioquia</li>
+                        <li>Gobernación de Caldas</li>
+                        <li>Harvard University</li>
+                        <li>Hogar San Judas Tadeo</li>
+                        <li>Innpulsa</li>
+                        <li>Instituciones Educativas EAU</li>
+                        <li>Instituto de Investigación en Salud de la Universidad de Caldas</li><li>Inversiones Necoclí S.A.</li>
                         <li>Monasterio La Visitación de María Santísima</li>
                         <li>Municipio de Manizales - Secretaría de Educación Municipal</li>
                         <li>Municipio de Manizales - Secretaría de Salud</li>
@@ -193,14 +193,6 @@
                         <li>Red de Emprendimiento de Caldas</li>
                         <li>Religiosas Adoratrices de Colombia </li>
                         <li>Seminario Mayor de Nuestra Señora del Rosario </li>
-                        <li>Sistema Universitario de Manizales (SUMA)</li>
-                        <li>Unitécnica Manizales S.A.S.</li>
-                        <li>Universidad Autónoma de Manizales</li>
-                        <li>Universidad Católica de Manizales</li>
-                        <li>Universidad Católica Luis Amigó</li>
-                        <li>Universidad de Caldas</li>
-                        <li>Universidad de Manizales</li>
-                        <li>Universidad Nacional - Sede Manizales </li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -212,6 +204,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
@@ -228,7 +221,14 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br>
                 <h5 class="destacado azul">Contratistas 2016</h5><br>                
-                    <ul>
+                    <ul><li>Sistema Universitario de Manizales (SUMA)</li>
+                        <li>Unitécnica Manizales S.A.S.</li>
+                        <li>Universidad Autónoma de Manizales</li>
+                        <li>Universidad Católica de Manizales</li>
+                        <li>Universidad Católica Luis Amigó</li>
+                        <li>Universidad de Caldas</li>
+                        <li>Universidad de Manizales</li>
+                        <li>Universidad Nacional - Sede Manizales </li>
                         <li>Almera - Information Management Limitada</li>
                         <li>A.B.C. publicidad integral</li>
                         <li>Adriana García Triana</li>
@@ -242,16 +242,6 @@
                         <li>Azoma Criterio Editorial Ltda.</li>
                         <li>Bancolombia S. A.</li>
                         <li>Bus TV Publicidad S.A.S.</li>
-                        <li>Capital Graphic S.A.S.</li>
-                        <li>Carlos Andrés Ramírez Pineda</li>
-                        <li>Carvajal Soluciones de Comunicación S.A.S.</li>
-                        <li>Colombianet Solutions S.A.S.</li>
-                        <li>Conconttec S.A.S.</li>
-                        <li>Cooperativa Multiactiva de Asociados y Asociaciones de los Hogares Comunitarios de Bienestar, Cooasobien</li>
-                        <li>Cristian Camilo Márquez Londoño</li>
-                        <li>Daniela Nieto Jaramillo</li>
-                        <li>Data 3.000</li>
-                        <li>David Ávila Giraldo – Pigxel</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -263,6 +253,7 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
@@ -278,7 +269,16 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
-                    <ul>
+                    <ul><li>Capital Graphic S.A.S.</li>
+                        <li>Carlos Andrés Ramírez Pineda</li>
+                        <li>Carvajal Soluciones de Comunicación S.A.S.</li>
+                        <li>Colombianet Solutions S.A.S.</li>
+                        <li>Conconttec S.A.S.</li>
+                        <li>Cooperativa Multiactiva de Asociados y Asociaciones de los Hogares Comunitarios de Bienestar, Cooasobien</li>
+                        <li>Cristian Camilo Márquez Londoño</li>
+                        <li>Daniela Nieto Jaramillo</li>
+                        <li>Data 3.000</li>
+                        <li>David Ávila Giraldo – Pigxel</li>
                         <li>Deloitte & Touche Ltda.</li>
                         <li>Ecoglobal Print</li>
                         <li>Editorial Blanecolor S.A.S.</li>
@@ -291,20 +291,6 @@
                         <li>Fénix Impresión Digital S.A.S.</li>
                         <li>Flywan S.A.S.</li>
                         <li>Freedom Center</li>
-                        <li>FTI Consulting SC Ltda.</li>
-                        <li>Fundación Secretos para Contar</li>
-                        <li>Fundacion Manuel Mejía</li>
-                        <li>Gloria Patricia Velásquez </li>
-                        <li>Grupo Editorial Especial S.A.S</li>
-                        <li>Harry Van Den Enden Publicidad S.A.S</li>
-                        <li>Humberto Arcila y Asociados</li>
-                        <li>Inmobiliaria Piedad Pinzón</li>
-                        <li>In-tuitiva Consultores </li>
-                        <li>Inversiones Giraldo Agudelo y Cía. S en C. - Distribuciones AGH</li>
-                        <li>Isabel Llanos Chaparro</li>
-                        <li>Jardín Infantil Chinchiná</li>
-                        <li>Jhon Fredy Sánchez Hincapié</li>
-                        <li>Jorge Armando Virviescas Nieto</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -316,6 +302,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
@@ -332,6 +319,20 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco texto"><br><br>         
                     <ul>
+                        <li>FTI Consulting SC Ltda.</li>
+                        <li>Fundación Secretos para Contar</li>
+                        <li>Fundacion Manuel Mejía</li>
+                        <li>Gloria Patricia Velásquez </li>
+                        <li>Grupo Editorial Especial S.A.S</li>
+                        <li>Harry Van Den Enden Publicidad S.A.S</li>
+                        <li>Humberto Arcila y Asociados</li>
+                        <li>Inmobiliaria Piedad Pinzón</li>
+                        <li>In-tuitiva Consultores </li>
+                        <li>Inversiones Giraldo Agudelo y Cía. S en C. - Distribuciones AGH</li>
+                        <li>Isabel Llanos Chaparro</li>
+                        <li>Jardín Infantil Chinchiná</li>
+                        <li>Jhon Fredy Sánchez Hincapié</li>
+                        <li>Jorge Armando Virviescas Nieto</li>
                         <li>Juan Uribe Rojas</li>
                         <li>KPMG Ltda.</li>
                         <li>La Gota de Leche</li>
@@ -340,6 +341,33 @@
                         <li>Misael Alejandro Peralta Rodríguez</li>
                         <li>Mónica María Bedoya Rojas</li>
                         <li>Natalia Franco Ramírez</li>
+                    </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="pt-page pt-page-8">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco texto"><br><br>         
+                    <ul>
                         <li>Old Mutual Sociedad Fiduciaria S.A.</li>
                         <li>Organización Radial Olímpica S.A.</li>
                         <li>Patricia Rojas Otálvaro</li>
@@ -368,7 +396,8 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>
                            
                           </ul>
                         </nav>
