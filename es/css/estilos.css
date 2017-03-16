@@ -678,12 +678,14 @@ body#presentacion .paginacion .pager li>a {
 	border-top: 5px solid #dbcece;
 }
 .footer p {
- 	font-size: 11px;
- 	font-weight: 300;
-    font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
     font-weight: 300;
     font-size: 11px;
     color: #646569;
+    display: inline-block;
+    line-height: 12px;
+    float: right;
+    margin: -9px -16px 0 0px;
 }
 .footer img {
 	-webkit-filter: sepia(.7);
