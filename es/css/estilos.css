@@ -597,11 +597,22 @@ a.language:hover {
 	font-size: 14px;
 	border: 1px solid #512B1C;
 }
-.paginacion.pt-trigger-container {
-	position: absolute;
-	left: 40%;
-	margin-bottom: 20px;
-	font-weight: 400;
+.paginacion.pt-trigger-container {    
+	/* position: absolute; */
+    /* left: 15%; */
+    /* margin: 0 auto !important; */
+    /* display: inline-block; */
+    /* margin-bottom: 20px; */
+    font-weight: 400;
+    /* text-align: center; */
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+.paginacion.pt-trigger-container nav
+{
+	display: inline-block;
+	margin: 0 auto;
 }
 body#presentacion .paginacion .pager li>a {
 	color: #646569;
@@ -683,9 +694,10 @@ body#presentacion .paginacion .pager li>a {
     font-size: 11px;
     color: #646569;
     display: inline-block;
-    line-height: 12px;
+    line-height: 13px;
     float: right;
-    margin: -9px -16px 0 0px;
+    margin: -9px -12px 0 0px;
+    padding-bottom: 6px;
 }
 .footer img {
 	-webkit-filter: sepia(.7);
@@ -775,7 +787,10 @@ body#grupos .subMenu a.DescargarPDF  {
     border-right: 1px solid #fff !important;
 }
 .link_textos{
-    color: #008AAB !important;
+    color: #008AAB;
+}
+.link_textos:hover {
+	color: #EB0029;
 }
 a:link   
 {   
