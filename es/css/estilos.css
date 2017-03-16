@@ -415,7 +415,8 @@ body#enfoque h5 {
     width: 206px;
 }
 .img_izquierda{
-	margin-top: 65px;
+	margin-top: 40px;
+    margin-left: -2px;
     width: 341px;
 }
 /*menu*/
