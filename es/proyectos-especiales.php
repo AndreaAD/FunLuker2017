@@ -8,7 +8,7 @@
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -37,14 +37,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend2.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -71,14 +71,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend4.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -99,14 +99,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend6.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -127,14 +127,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend8.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -155,14 +155,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend10.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -184,14 +184,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend12.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>   
@@ -212,14 +212,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend14.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -240,14 +240,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend16.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -268,7 +268,7 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/emprend18.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>

@@ -802,3 +802,6 @@ ul .sinMargin.listaAzul li:before{
   content: "• ";
   color: red;
 }
+.padd-lef{
+	padding-left: 0px;
+}

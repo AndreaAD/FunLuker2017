@@ -8,7 +8,7 @@
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -41,14 +41,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion2.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -81,14 +81,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion4.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -118,14 +118,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion6.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -156,14 +156,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion8.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -193,14 +193,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion10.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -230,14 +230,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion12.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>   
@@ -270,14 +270,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion14.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br><br>
@@ -308,14 +308,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion16.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -356,14 +356,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion18.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-10">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion19.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br><br>
@@ -401,14 +401,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion20.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-11">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion21.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -434,14 +434,14 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion22.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-12">
             <div class="row contenido">
-                <div class="col-sm-5 col-izq">
+                <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion23.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
@@ -467,7 +467,7 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-sm-3 col-izq">
+                <div class="col-sm-3 padd-lef col-izq">
                     <img src="img/educacion24.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
