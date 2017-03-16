@@ -20,9 +20,6 @@
                     <p class="texto">Invita empresarios o corporativos con gran trayectoria a compartir su experiencia y generar relaciones de largo plazo con empresarios en crecimiento para disminuir los riesgos en su proceso.</p>
                     <h5 class="destacado azul">Profesores de Alto Potencial</h5>
                     <p class="texto">Es un programa para docentes que apunta a generar una transformación en la forma como se enseña emprendimiento en las universidades y en la forma como la academia se relaciona con el entorno.</p>
-                    <h5 class="destacado azul">Startup Más </h5>
-                    <p class="texto">Este programa identifica y fortalece iniciativas empresariales de los estudiantes, egresados y miembros en general de las universidades aliadas de Manizales Más. </p>
-
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -50,6 +47,8 @@
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco"><br>
+                    <h5 class="destacado azul">Startup Más </h5>
+                    <p class="texto">Este programa identifica y fortalece iniciativas empresariales de los estudiantes, egresados y miembros en general de las universidades aliadas de Manizales Más. </p>
                     <h5 class="destacado azul">Addventure Más</h5>
                     <p class="texto">Es un programa de aceleración intensiva dirigido a empresas en etapa temprana, que a lo largo de seis semanas enfrentan los principales retos de crecimiento. Los empresarios reciben entrenamiento, mentoría y asesoría personalizada. </p>
                     <h5 class="destacado azul">La Ruta del Emprendimiento</h5>
