@@ -56,7 +56,7 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                    <h5 class="azul destacado">Equipo de trabajo</h5><br>
+                    <h5 class="azul destacado">Equipo de trabajo</h5>
                     <h6 class="nombres">Pablo Jaramillo Villegas<br><small>Gerente</small> </h6>
                     <div class="row">
                         <div class="col-sm-8">

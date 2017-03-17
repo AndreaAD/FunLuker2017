@@ -52,7 +52,6 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <br><br>
                      <ul class="listaAzul">
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Emprendimiento</a></p>
@@ -87,7 +86,6 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <br><br>
                     <ul class="listaAzul">
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="proyectos-especiales.php">Otras iniciativas de ciudad</a></p>

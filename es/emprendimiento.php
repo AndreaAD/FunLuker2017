@@ -46,7 +46,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <h5 class="destacado azul">Startup Más </h5>
                     <p class="texto">Este programa identifica y fortalece iniciativas empresariales de los estudiantes, egresados y miembros en general de las universidades aliadas de Manizales Más. </p>
                     <h5 class="destacado azul">Addventure Más</h5>
@@ -157,7 +157,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <ul class="texto">
                         <li>Manizales Más participó a través de la empresa Natura-les en el gran desafío de la inversión, dentro del marco del Global Entrepreneurship Congress. Esta misma empresa también fue seleccionada para el Latam Venture Forum. </li>
                         <li>Maquiempanadas, Pasteliarte y Soluciones Microbianas del Trópico, empresas de Manizales Más, recibieron exaltación a la excelencia como empresas embajadoras de la innovación, en el congreso anual de Confecámaras.</li>
@@ -191,7 +191,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <ul class="texto">
                         <li>16 Empresas de Alto Potencial entrenadas en 2016 alcanzaron importantes resultados: 
                             <p class="identado">
@@ -232,7 +232,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>   
+                <div class="col-sm-8 fondo-blanco">
                     <p class="texto">Tabla 4. Inversión en emprendimiento para el desarrollo.</p>
                     <p><img src="img/tabla4.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -261,7 +261,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <p class="texto">Tabla 5. Beneficiarios de los proyectos de emprendimiento</p>
                     <p><img src="img/tabla5.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -290,7 +290,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="destacado azul">Oportunidades  </h5>
                     <ul class="texto">

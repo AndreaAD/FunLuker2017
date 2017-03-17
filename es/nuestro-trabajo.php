@@ -91,7 +91,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <p class="texto">Tabla 1. Programas de formación de La Universidad en Tu Colegio en 2016.</p>
                     <p><img src="img/tabla1.png" class="img-responsive"></p>
                     <ul class="texto">
@@ -128,7 +128,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <ul class="texto">
                         
                         <li>68 jóvenes recibieron título de Técnico Profesional de la Universidad de Caldas, 31 del programa Higiene y Seguridad Ocupacional y 37 del programa Operación de la Cadena Logística.</li>
@@ -166,7 +166,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <h5 class="destacado azul">Alianza para el Reforzamiento Escolar de Niños con Desafíos, Aprende</strong></h5>     
                     <p class="texto">El proyecto Aprende tiene como objetivo fundamental diseñar, implementar y evaluar innovaciones educativas para fortalecer competencias básicas de estudiantes de instituciones educativas oficiales de Manizales y generar conocimientos para la región sobre la efectividad de los programas de refuerzo académico en la enseñanza de lectura y matemáticas. </p>
                     <p class="texto">En 2016 se realizaron las siguientes intervenciones que son, cada una de ellas, innovaciones educativas para la ciudad. </p><br>
@@ -203,7 +203,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <ul class="texto">
                         <li>Con la Universidad de Harvard y el apoyo de la Secretaría de Educación de Manizales se llevó a cabo la estrategia de información a docentes y padres de familia sobre el desempeño de los estudiantes.  </li>
                     </ul>
@@ -240,7 +240,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>   
+                <div class="col-sm-8 fondo-blanco">
                     <h5 class="destacado azul">Principales resultados e innovaciones en 2016</h5>
                         <ul class="texto">
                             <li>Se sumaron nuevos aliados: Fenalco, Findeter, Gobernación de Caldas, Comité Integremial de Caldas, Centro Colombo Americano, ANDI, Alcaldía de Manizales.</li>
@@ -280,7 +280,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br><br>
+                <div class="col-sm-8 fondo-blanco">
                     <ul class="texto">
                         <li>Se dispuso una Tribuna Universitaria en el Estadio Palogrande, exclusiva para estudiantes universitarios, así como descuentos especiales para asistir a los partidos de baloncesto del equipo Sabios Once Caldas.</li>
                         <li>Se abrieron dos estaciones de bicicletas con 25 bicicletas públicas entregadas a la ciudad y más de 600 usuarios diarios en 2016. </li>
@@ -318,7 +318,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <h5 class="destacado azul">Principales riesgos y/o oportunidades</h5>
                     <h5 class="destacado azul">Escuela Activa Urbana:</h5>
                     <h5 class="destacado azul">Riesgos</h5>
@@ -366,7 +366,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion19.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br><br>
+                <div class="col-sm-8 fondo-blanco">
                     <h5 class="destacado azul">Oportunidades</h5>
                     <ul class="texto">
                         <li>Ampliación y actualización permanente de la oferta de programas técnicos y tecnológicos. </li>
@@ -411,7 +411,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion21.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <p class="texto">Tabla 2. Inversión en Educación para el desarrollo.</p>
                     <p><img src="img/tabla2.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -444,7 +444,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion23.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <p class="texto">Tabla 3. Beneficiarios de los proyectos de educación</p>
                     <p><img src="img/tabla3.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">

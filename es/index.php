@@ -46,7 +46,6 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <br><br>
                     <p class="texto">De otro lado, Manizales Campus Universitario terminó el 2016 con nuevos e importantes aliados que permiten fortalecer cada día más este proyecto y nos ayudan a entender que vamos por buen camino, enfocados todos en el mismo objetivo: hacer de Manizales la primera ciudad universitaria de Colombia. </p>
                     <p class="texto">En Manizales Más, nuestro programa de Emprendimiento, también nos hemos fortalecido con la llegada de nuevos y valiosos aliados que confían en esta apuesta.  </p>
                     <p class="texto">De igual manera, nuestros proyectos especiales, que apoyan el trabajo de diversas organizaciones de la ciudad enfocadas en la atención de niños, estudiantes, jóvenes, población discapacitada y adultos mayores, continúan contribuyendo al mejoramiento de las condiciones de vida de comunidades en nuestra ciudad.      </p>

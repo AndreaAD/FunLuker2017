@@ -39,7 +39,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -123,7 +123,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -151,7 +151,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     
                     <div class="paginacion pt-trigger-container">
@@ -180,7 +180,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>   
+                <div class="col-sm-8 fondo-blanco"> 
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -208,7 +208,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -236,7 +236,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>

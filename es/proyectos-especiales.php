@@ -47,7 +47,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     <ul class="texto">
                         <li>El proyecto de generación de ingresos con un enfoque humano-social, se hizo posible gracias a una alianza entre Obras Sociales Betania, Fundacion Bolívar Davivienda, Universidad Católica de Manizales y Fundación Luker.</li>
                         <li>La puesta en marcha de la unidad de confección Sueños Tejidos con 21 mujeres de San Sebastian de Betania, que le apunta desde hace 4 años a mejorar los ingresos y las condiciones de vida de personas de esta comunidad.</li>
@@ -138,7 +138,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -166,7 +166,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     
                     <div class="paginacion pt-trigger-container">
@@ -195,7 +195,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>   
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -223,7 +223,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -251,7 +251,7 @@
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
-                <div class="col-sm-8 fondo-blanco"><br>
+                <div class="col-sm-8 fondo-blanco">
                     
                     <div class="paginacion pt-trigger-container">
                         <nav>

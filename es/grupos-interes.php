@@ -68,7 +68,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br>
+                <div class="col-sm-8 fondo-blanco texto">
                  <h6>Externos:</h6>
                     <p class="indentado">
                         Ciudadanía de Manizales <br>
@@ -91,8 +91,7 @@
                         <li>Asociación de Fundaciones Empresariales, AFE</li>
                         <li>Asociación Luisas de Marillac</li>
                         <li>Babson College</li>
-                        <li>Banco interamericano de Desarrollo, BID</li>
-                        <li>Caja de Compensación Familiar de Caldas, Confa</li>                              
+                        <li>Banco interamericano de Desarrollo, BID</li>                          
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -119,8 +118,9 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br><br>
+                <div class="col-sm-8 fondo-blanco texto">
                     <ul>
+                        <li>Caja de Compensación Familiar de Caldas, Confa</li>    
                         <li>Coopsaludcom</li>
                         <li>Cámara de Comercio de Manizales por Caldas</li>
                         <li>CasaLuker </li>
@@ -140,9 +140,9 @@
                         <li>Fundación Bolívar Davivienda</li>
                         <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
                         <li>Fundación Corona</li>
-                        <li>Fundación Empresarios por la Educación, ExE</li>    
-                        <li>Fundación Éxito</li>   
-                        <li>Fundación Fesco</li>                
+                        <li>Fundación Empresarios por la Educación, ExE</li>
+                        <li>Fundación Éxito</li> 
+                        <li>Fundación Fesco</li>               
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -169,8 +169,8 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br>
-                    <ul>
+                <div class="col-sm-8 fondo-blanco texto">
+                    <ul>   
                         <li>Fundación Mario Santo Domingo</li>
                         <li>Fundación Orquestas Juveniles e Infantiles de Caldas, Batuta Caldas</li>
                         <li>Fundacion Saldarriaga Concha</li>
@@ -219,7 +219,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br>
+                <div class="col-sm-8 fondo-blanco texto">
                 <h5 class="destacado azul">Contratistas 2016</h5><br>                
                     <ul><li>Sistema Universitario de Manizales (SUMA)</li>
                         <li>Unitécnica Manizales S.A.S.</li>
@@ -268,7 +268,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br><br>         
+                <div class="col-sm-8 fondo-blanco texto">      
                     <ul><li>Capital Graphic S.A.S.</li>
                         <li>Carlos Andrés Ramírez Pineda</li>
                         <li>Carvajal Soluciones de Comunicación S.A.S.</li>
@@ -317,7 +317,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br><br>         
+                <div class="col-sm-8 fondo-blanco texto">     
                     <ul>
                         <li>FTI Consulting SC Ltda.</li>
                         <li>Fundación Secretos para Contar</li>
@@ -366,7 +366,7 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"><br><br>         
+                <div class="col-sm-8 fondo-blanco texto">     
                     <ul>
                         <li>Old Mutual Sociedad Fiduciaria S.A.</li>
                         <li>Organización Radial Olímpica S.A.</li>
