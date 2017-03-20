@@ -44,11 +44,11 @@
                 <div class="col-xs-3 menuResponsive visible-xs">
                     <div id="dl-menu" class="dl-menuwrapper">
                         <button class="dl-trigger">Open Menu</button>
-                        <!-- <ul class="dl-menu">
+                        <ul class="dl-menu">
                             <li>
                                 <a href="#" class="item0">Presentación</a>
                                 <ul class="dl-submenu" >
-                                    <li><a href="presentacion.php" class="item0">Carta de la Gerencia</a></li>
+                                    <li><a href="index.php" class="item0">Carta de la Gerencia</a></li>
                                     <li><a href="fLuker.php" class="item0">La Fundación</a></li>
                                     <li><a href="areas.php" class="item0">Áreas de Trabajo</a></li>
                                     <li><a href="informe.php" class="item0">Acerca de este informe</a></li>
@@ -66,24 +66,20 @@
                             <li>
                                 <a href="#" class="item3">Nuestro trabajo en 2015</a>
                                 <ul class="dl-submenu">
-                                    <li><a href="educacion.php" class="item3">Educación</a></li>
+                                    <li><a href="nuestro-trabajo.php" class="item3">Educación</a></li>
                                     <li><a href="emprendimiento.php" class="item3">Emprendimiento</a></li>
                                     <li><a href="proyectos-especiales.php" class="item3">Proyectos especiales y otras iniciativas de ciudad</a></li>
                                     <li><a href="proyecto-casaluker.php" class="item3">El proyecto con CasaLuker</a></li>
                                 </ul>
                             </li>
                             <li><a href="inversion.php" class="item5">Dimensión económica</a></li>
-                            <li><a href="20anios.php" class="item0">20 años de trabajo</a></li>
-                        </ul> -->
+                        </ul>
                     </div>
                 </div>
                 <div class="col-xs-13 col-sm-5">
                     <a href="../index.php"><img src="img/logo.png" alt="" class="img-responsive logo"></a>
                 </div>
                 <div class="col-sm-11 text-center nav">
-                    <div class="logo20">
-                        <!--<a href="index.php"><img src="img/logo.png" alt=""></a>-->
-                    </div>
                     <nav>
                         <ul class="nav nav-pills">
                           <li role="presentation"><a href="index.php" class="item0 <?php echo $activo == 1 ? 'active' : '' ?>">Presentación</a></li>

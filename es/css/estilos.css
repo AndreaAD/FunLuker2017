@@ -682,7 +682,7 @@ body#presentacion .paginacion .pager li>a {
     opacity: .5;
 }
 .footer {
-	position: relative;
+	position: relative;	
 	z-index: 5;
 	bottom: 0;
 	background-color: #ffffff;
