@@ -1,4 +1,4 @@
-@media (max-width: 1199px) {
+@media (max-width: 1199px)
 	.cabecera {
 	  height: 56px;
 	}
@@ -33,6 +33,14 @@
 	}
 	body {
 		font-size: 13px;
+		background-color: #fff !important;
+	}
+
+	.footer {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100%;
 	}
 	.col-izq {
 	    position: relative;
@@ -44,6 +52,9 @@
 	}
 }
 @media (max-width: 991px) {
+	.body {
+		background-color: #fff !important;
+	}
 	.logo20 {
 		left: -20px;
 		top: 10px;
@@ -101,6 +112,9 @@
 	}
 }
 @media (max-width: 767px) {
+	.body {
+		background-color: #fff !important;
+	}
 	.logoPortada {
 		top: 57%;
 	}
@@ -196,5 +210,7 @@
 		top: 70px;
 		margin: 0;
 		max-width: 70px;
+		background-color: #ccc;
+		border-bottom: 1px solid #512B1C;
 	}
 }

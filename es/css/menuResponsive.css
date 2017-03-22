@@ -51,8 +51,8 @@
 	background: #fff;
 	top: 10px;
 	left: 16%;
-	box-shadow: 
-		0 10px 0 #fff, 
+	box-shadow:
+		0 10px 0 #fff,
 		0 20px 0 #fff;
 }
 
@@ -83,6 +83,7 @@
 
 .dl-menuwrapper li.dl-back > a {
 	padding-left: 30px;
+	color: #333;
 /*	background: rgba(0,0,0,0.1);
 */}
 
@@ -98,10 +99,14 @@
 }
 
 .dl-menuwrapper li.dl-back:after {
-	left: 10px;
-/*	color: rgba(212,204,198,0.3);
-*/	-webkit-transform: rotate(180deg);
-	transform: rotate(180deg);
+		content: "\A";
+    border-style: solid;
+    border-width: 5px 9px 5px 0;
+    border-color: transparent #512c1d transparent transparent;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+
 }
 
 .dl-menuwrapper li > a:after {
@@ -137,10 +142,10 @@
 	display: none;
 }
 
-/* 
+/*
 When a submenu is openend, we will hide all li siblings.
 For that we give a class to the parent menu called "dl-subview".
-We also hide the submenu link. 
+We also hide the submenu link.
 The opened submenu will get the class "dl-subviewopen".
 All this is done for any sub-level being entered.
 */
