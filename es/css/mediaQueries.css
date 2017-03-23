@@ -1,4 +1,4 @@
-@media (max-width: 1199px)
+@media (max-width: 1199px) {
 	.cabecera {
 	  height: 56px;
 	}
@@ -25,22 +25,12 @@
 	.col-izq img.sangradaMenor {
 		 margin-left: -70px;
 	}
-	.paginacion.pt-trigger-container {
-		top: 500px;
-	}
 	body#trabajo .educacion .paginacion.pt-trigger-container {
 		  left: 5%;
 	}
 	body {
 		font-size: 13px;
 		background-color: #fff !important;
-	}
-
-	.footer {
-		position: fixed;
-		bottom: 0;
-		left: 0;
-		width: 100%;
 	}
 	.col-izq {
 	    position: relative;
@@ -53,7 +43,7 @@
 }
 @media (max-width: 991px) {
 	.body {
-		background-color: #fff !important;
+			background-color: #fff !important;
 	}
 	.logo20 {
 		left: -20px;
@@ -100,6 +90,14 @@
 	.paginacion .pager li>a {
 		  padding: 2px 9px;
 	}
+
+	.footer {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+	}
+
 	.portada {
 		margin-left: -375px;
 	}
