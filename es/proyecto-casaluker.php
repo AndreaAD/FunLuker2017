@@ -9,7 +9,7 @@
         <div class="pt-page pt-page-1">
             <div class="row contenido">
                 <div class="col-sm-5 padd-lef col-izq">
-                    <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/proyectoluker_foto1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN  <br><strong> EL PROYECTO CON CASALUKER</strong></h4>     
@@ -33,16 +33,17 @@
                     </div>
                 </div>
                 <div class="col-sm-3 padd-lef col-izq">
-                    <img src="img/emprend2.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/proyectoluker_des1.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
                 <div class="col-sm-5 padd-lef col-izq">
-                    <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/proyectoluker_foto2.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <br><br><br>
                     <p class="identado texto">
                         - La cualificación de los docentes de las tres escuelas en la metodología de Escuela Nueva.<br>
                         - La implementación de proyectos pedagógicos productivos en las escuelas.<br>
@@ -63,17 +64,17 @@
                     </div>
                 </div>
                 <div class="col-sm-3 padd-lef col-izq">
-                    <img src="img/emprend4.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/proyectoluker_des2.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
                 <div class="col-sm-5 padd-lef col-izq">
-                    <img src="img/emprend5.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/proyectoluker_foto3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <p class="texto">Tabla 10. Beneficiarios de proyectos con CasaLuker</p>
+                    <br><br><br>
                     <p><img src="img/tabla10.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -88,17 +89,17 @@
                     </div>
                 </div>
                 <div class="col-sm-3 padd-lef col-izq">
-                    <img src="img/emprend6.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/proyectoluker_des3.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
                 <div class="col-sm-5 padd-lef col-izq">
-                    <img src="img/emprend7.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/proyectoluker_foto4.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <p class="texto">Tabla 11. Inversión en proyectos con CasaLuker</p>
+                    <br><br><br>
                     <p><img src="img/tabla11.png" class="img-responsive"></p>   
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -113,16 +114,17 @@
                     </div>
                 </div>
                 <div class="col-sm-3 padd-lef col-izq">
-                    <img src="img/emprend8.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/proyectoluker_des4.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
                 <div class="col-sm-5 padd-lef col-izq">
-                    <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
+                    <img src="img/proyectoluker_foto5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <br><br><br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="destacado azul">Oportunidades:</h5>
                     <p class="texto">Como parte de estrategia de valor compartido de la compañía se adelanta la estructuración de un proyecto social ambicioso, articulado al proyecto productivo y soportado en la construcción del Sueño de Chocolate para Necoclí. Este esfuerzo constituye una oportunidad única para generar un modelo que permita el desarrollo de un territorio a partir del cacao, el cual pueda replicarse en el futuro en otros proyectos de siembra en el país.</p>
@@ -139,7 +141,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 padd-lef col-izq">
-                    <img src="img/emprend10.png" class="img_derecha hidden-xs" alt="">
+                    <img src="img/proyectoluker_des5.png" class="img_derecha hidden-xs" alt="">
                 </div>
             </div>
         </div>

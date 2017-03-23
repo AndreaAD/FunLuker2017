@@ -53,6 +53,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                      <ul class="listaAzul">
+                     </br></br></br>
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="emprendimiento.php">Emprendimiento</a></p>
                             <p class="texto">Manizales Más, luego de casi cinco años de creación, continúa transformando el modelo económico de la ciudad gracias a sus esfuerzos por sumar conocimiento a la acción para crear y crecer empresas.  </p>
@@ -87,6 +88,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <ul class="listaAzul">
+                        </br></br></br>
                         <li>
                             <p class="texto azul destacado"><a class="link_textos" href="proyectos-especiales.php">Otras iniciativas de ciudad</a></p>
                             <p class="texto">Manizales Más, luego de casi cinco años de creación, continúa transformando el modelo económico de la ciudad gracias a sus esfuerzos por sumar conocimiento a la acción para crear y crecer empresas.  </p>

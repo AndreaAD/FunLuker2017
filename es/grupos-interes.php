@@ -32,17 +32,7 @@
                     <h4 class="subtitulo_texto azul">PARTICIPACIÓN DE <br><strong>LOS GRUPOS DE INTERÉS</strong></h4>              
                     <p>Manizales se caracteriza hoy en día por la capacidad que han desarrollado sus instituciones para establecer alianzas y trabajar en torno a objetivos comunes enfocados en el desarrollo de la ciudad.  </p>
                     <p>La Fundación Luker ha sido un actor importante en estos esfuerzos conjuntos, porque estamos seguros que el trabajo articulado con otras organizaciones locales, nacionales e internacionales permite hacer de Manizales una mejor ciudad. </p>
-                    <p>Por eso nuestra ciudad es el principal grupo de interés de la Fundación Luker, haciendo de los actores lo¬cales sus aliados más significativos para el desarrollo de sus proyectos. </p>
-                    <h5 class="destacado azul">Los grupos de interés de Fundación Luker</h5>
-           
-                    <h6>Internos:</h6>
-                    <p class="indentado">Familia Fundadora <br>
-                        Asamblea General <br>
-                        Junta Directiva <br>
-                        Equipo de trabajo <br>
-                        CasaLuker
-                    </p>
-                   
+                    <p>Por eso nuestra ciudad es el principal grupo de interés de la Fundación Luker, haciendo de los actores lo¬cales sus aliados más significativos para el desarrollo de sus proyectos. </p>    
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -54,6 +44,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                            
                           </ul>
                         </nav>
@@ -69,30 +60,28 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                 <h6>Externos:</h6>
-                    <p class="indentado">
+                     </br></br>
+                     <h5 class="destacado azul">Los grupos de interés de Fundación Luker</h5> 
+                     <h6>Internos:</h6>
+                        <p class="indentado">Familia Fundadora <br>
+                        Asamblea General <br>
+                        Junta Directiva <br>
+                        Equipo de trabajo <br>
+                        CasaLuker
+                        </p>
+                     <h6>Externos:</h6>
+                        <p class="indentado">
                         Ciudadanía de Manizales <br>
                         Aliados <br>
                         Beneficiarios de los programas <br>
                         Gobiernos (Municipal, Departamental, Nacional) <br>
                         Proveedores <br>
                         Universidades, colegios y centros de investigación
-        Zonas de influencia de algunos proyectos agrícolas de CasaLuker
-                   Programas, Iniciativas y movilizaciones sociales de la ciudad <br>
+                        Zonas de influencia de algunos proyectos agrícolas de CasaLuker
+                        Programas, Iniciativas y movilizaciones sociales <br> de la ciudad 
                         Zonas de influencia de algunos proyectos agrícolas de CasaLuker <br>
                         Programas, iniciativas y movilizaciones sociales de la ciudad
-                    </p>                
-                    <h5 class="destacado azul">Aliados, proveedores y organizaciones beneficiarias 2016</h5><br>
-                    <ul>
-                        <li>Actuar Microempresas</li>
-                        <li>Alcaldía de Manizales</li>
-                        <li>Alcaldía de Necoclí</li>
-                        <li>Asociación Nacional de Empresarios, Andi</li>
-                        <li>Asociación de Fundaciones Empresariales, AFE</li>
-                        <li>Asociación Luisas de Marillac</li>
-                        <li>Babson College</li>
-                        <li>Banco interamericano de Desarrollo, BID</li>                          
-                    </ul>
+                    </p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -104,6 +93,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                            
                           </ul>
                         </nav>
@@ -119,6 +109,18 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    </br></br>
+                    <h5 class="destacado azul">Aliados, proveedores y organizaciones beneficiarias 2016</h5><br>
+                    <ul>
+                        <li>Actuar Microempresas</li>
+                        <li>Alcaldía de Manizales</li>
+                        <li>Alcaldía de Necoclí</li>
+                        <li>Asociación Nacional de Empresarios, Andi</li>
+                        <li>Asociación de Fundaciones Empresariales, AFE</li>
+                        <li>Asociación Luisas de Marillac</li>
+                        <li>Babson College</li>
+                        <li>Banco interamericano de Desarrollo, BID</li>                          
+                    </ul>
                     <ul>
                         <li>Caja de Compensación Familiar de Caldas, Confa</li>    
                         <li>Coopsaludcom</li>
@@ -132,17 +134,7 @@
                         <li>Corporación Alberto Arango Restrepo, Ceder</li>
                         <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>        
                         <li>Corporación para el Desarrollo de Caldas</li>          
-                        <li>Estoy con Manizales</li>
-                        <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
-                        <li>Federación Nacional de Comerciantes, Fenalco - Seccional Caldas </li>
-                        <li>Financiera de Desarrollo Territorial, Findeter</li>
-                        <li>Fundación Alejandra Vélez Mejía</li>
-                        <li>Fundación Bolívar Davivienda</li>
-                        <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
-                        <li>Fundación Corona</li>
-                        <li>Fundación Empresarios por la Educación, ExE</li>
-                        <li>Fundación Éxito</li> 
-                        <li>Fundación Fesco</li>               
+                                      
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -155,6 +147,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                            
                           </ul>
                         </nav>
@@ -170,7 +163,19 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                </br></br></br>
                     <ul>   
+                        <li>Estoy con Manizales</li>
+                        <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
+                        <li>Federación Nacional de Comerciantes, Fenalco - Seccional Caldas </li>
+                        <li>Financiera de Desarrollo Territorial, Findeter</li>
+                        <li>Fundación Alejandra Vélez Mejía</li>
+                        <li>Fundación Bolívar Davivienda</li>
+                        <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
+                        <li>Fundación Corona</li>
+                        <li>Fundación Empresarios por la Educación, ExE</li>
+                        <li>Fundación Éxito</li> 
+                        <li>Fundación Fesco</li> 
                         <li>Fundación Mario Santo Domingo</li>
                         <li>Fundación Orquestas Juveniles e Infantiles de Caldas, Batuta Caldas</li>
                         <li>Fundacion Saldarriaga Concha</li>
@@ -181,7 +186,40 @@
                         <li>Hogar San Judas Tadeo</li>
                         <li>Innpulsa</li>
                         <li>Instituciones Educativas EAU</li>
-                        <li>Instituto de Investigación en Salud de la Universidad de Caldas</li><li>Inversiones Necoclí S.A.</li>
+                        <li>Instituto de Investigación en Salud de la Universidad de Caldas</li>
+                        <li>Inversiones Necoclí S.A.</li>
+                    </ul>
+                    <div class="paginacion pt-trigger-container">
+                        <nav>
+                          <ul class="pager">
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                           
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-izq">
+                    
+                </div>
+            </div>
+        </div>
+                <div class="pt-page pt-page-5">
+            <div class="row contenido">
+                <div class="col-sm-5 col-izq">
+                </div>
+                <div class="col-sm-8 fondo-blanco texto">
+                    </br></br></br>
+                    <ul>   
+                        
+                        
                         <li>Monasterio La Visitación de María Santísima</li>
                         <li>Municipio de Manizales - Secretaría de Educación Municipal</li>
                         <li>Municipio de Manizales - Secretaría de Salud</li>
@@ -200,11 +238,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">4</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                            
                           </ul>
                         </nav>
@@ -215,11 +254,12 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-5">
+        <div class="pt-page pt-page-6">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                </br></br></br>  
                 <h5 class="destacado azul">Contratistas 2016</h5><br>                
                     <ul><li>Sistema Universitario de Manizales (SUMA)</li>
                         <li>Unitécnica Manizales S.A.S.</li>
@@ -241,7 +281,7 @@
                         <li>Aviatur S.A.</li>
                         <li>Azoma Criterio Editorial Ltda.</li>
                         <li>Bancolombia S. A.</li>
-                        <li>Bus TV Publicidad S.A.S.</li>
+                        
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -250,10 +290,11 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="5">5</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                            
                           </ul>
                         </nav>
@@ -264,12 +305,14 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-6">
+        <div class="pt-page pt-page-7">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto">      
-                    <ul><li>Capital Graphic S.A.S.</li>
+                <div class="col-sm-8 fondo-blanco texto"> 
+                </br></br></br>  
+                    <ul><li>Bus TV Publicidad S.A.S.</li>
+                        <li>Capital Graphic S.A.S.</li>
                         <li>Carlos Andrés Ramírez Pineda</li>
                         <li>Carvajal Soluciones de Comunicación S.A.S.</li>
                         <li>Colombianet Solutions S.A.S.</li>
@@ -290,7 +333,6 @@
                         <li>Felipe Molina Álvarez</li>
                         <li>Fénix Impresión Digital S.A.S.</li>
                         <li>Flywan S.A.S.</li>
-                        <li>Freedom Center</li>
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -300,9 +342,10 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                            
                           </ul>
                         </nav>
@@ -313,12 +356,14 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-7">
+        <div class="pt-page pt-page-8">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto">     
+                <div class="col-sm-8 fondo-blanco texto">
+                </br></br></br>     
                     <ul>
+                        <li>Freedom Center</li>
                         <li>FTI Consulting SC Ltda.</li>
                         <li>Fundación Secretos para Contar</li>
                         <li>Fundacion Manuel Mejía</li>
@@ -351,8 +396,9 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -362,11 +408,12 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-8">
+        <div class="pt-page pt-page-9">
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto">     
+                <div class="col-sm-8 fondo-blanco texto">
+                </br></br></br>     
                     <ul>
                         <li>Old Mutual Sociedad Fiduciaria S.A.</li>
                         <li>Organización Radial Olímpica S.A.</li>

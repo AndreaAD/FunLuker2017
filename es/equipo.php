@@ -56,6 +56,7 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    </br></br></br>
                     <h5 class="azul destacado">Equipo de trabajo</h5>
                     <h6 class="nombres">Pablo Jaramillo Villegas<br><small>Gerente</small> </h6>
                     <div class="row">
@@ -104,6 +105,7 @@
                 <div class="col-sm-8 fondo-blanco texto2">
                     <div class="row">
                         <div class="col-sm-8">
+                            </br></br></br></br>
                             <h6 class="nombres">Ángela Cecilia Vásquez Escobar<br>
                                  Juliana Dávila Rincón<br>
                                 Daniela Moreno Gordon<br>
@@ -113,6 +115,7 @@
                             
                         </div>
                         <div class="col-sm-8">
+                            </br></br></br></br>
                             <h6>Fundación Luker</h6>
                             <p>
                                 PBX: (57) (6) 875 64 43 <br>
