@@ -17,6 +17,13 @@
         <!--All Pages-->
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -40,6 +47,14 @@
                         <li>Darío Gómez Jaramillo</li>
                         <li>Cecilia Maria Vélez White</li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -59,6 +74,14 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -85,6 +108,15 @@
                             <h6 class="nombres">Andrea Catalina Piedrahita Meza <br><small>Profesional Administrativa</small></h6>
                         </div>
                     </div>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -104,6 +136,11 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
 
@@ -131,6 +168,12 @@
                             Juliana Dávila Rincón<br>
                             Daniela Moreno Gordon<br>
                             <small>Coordinación General Informe de Sostenibilidad 2016</small></h6>
+                        </div>
+                    </div>
+                    <br><br>
+                     <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
                         </div>
                     </div>
                     <div class="paginacion pt-trigger-container">

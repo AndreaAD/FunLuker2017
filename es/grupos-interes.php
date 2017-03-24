@@ -26,6 +26,13 @@
         </div>
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -38,6 +45,14 @@
                     <p>Manizales se caracteriza hoy en día por la capacidad que han desarrollado sus instituciones para establecer alianzas y trabajar en torno a objetivos comunes enfocados en el desarrollo de la ciudad.  </p>
                     <p>La Fundación Luker ha sido un actor importante en estos esfuerzos conjuntos, porque estamos seguros que el trabajo articulado con otras organizaciones locales, nacionales e internacionales permite hacer de Manizales una mejor ciudad. </p>
                     <p>Por eso nuestra ciudad es el principal grupo de interés de la Fundación Luker, haciendo de los actores lo¬cales sus aliados más significativos para el desarrollo de sus proyectos. </p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -62,6 +77,14 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -92,7 +115,15 @@
                         Programas, Iniciativas y movilizaciones sociales <br> de la ciudad
                         Zonas de influencia de algunos proyectos agrícolas de CasaLuker <br>
                         Programas, iniciativas y movilizaciones sociales de la ciudad
-                    </p>
+                    </p><br><br>                
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -116,7 +147,15 @@
             </div>
         </div>
         <div class="pt-page pt-page-3">
-            <div class="row contenido">
+            <div class="row contenido">                
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -152,7 +191,15 @@
                         <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>
                         <li>Corporación para el Desarrollo de Caldas</li>
 
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -177,6 +224,14 @@
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -211,7 +266,15 @@
                         <li>Instituciones Educativas EAU</li>
                         <li>Instituto de Investigación en Salud de la Universidad de Caldas</li>
                         <li>Inversiones Necoclí S.A.</li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -236,6 +299,14 @@
         </div>
                 <div class="pt-page pt-page-5">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -260,7 +331,15 @@
                         <li>Red de Emprendimiento de Caldas</li>
                         <li>Religiosas Adoratrices de Colombia </li>
                         <li>Seminario Mayor de Nuestra Señora del Rosario </li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -285,6 +364,14 @@
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -317,7 +404,15 @@
                         <li>Azoma Criterio Editorial Ltda.</li>
                         <li>Bancolombia S. A.</li>
 
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -342,6 +437,14 @@
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -374,7 +477,15 @@
                         <li>Felipe Molina Álvarez</li>
                         <li>Fénix Impresión Digital S.A.S.</li>
                         <li>Flywan S.A.S.</li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -399,6 +510,14 @@
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -433,7 +552,15 @@
                         <li>Misael Alejandro Peralta Rodríguez</li>
                         <li>Mónica María Bedoya Rojas</li>
                         <li>Natalia Franco Ramírez</li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -457,6 +584,11 @@
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -486,7 +618,12 @@
                         <li>V&V Quality S.A.</li>
                         <li>Wat Partners S.A.S.</li>
                         <li>Webde Development System S.A.S</li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

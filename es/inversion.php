@@ -26,6 +26,13 @@
         </div>
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -38,6 +45,14 @@
                     <p class="texto azul destacado">Origen y manejo de los recursos </p>
                     <p>Los recursos de la Fundación Luker se originan en la rentabilidad de su patrimonio: rendimientos financieros, dividendos y arrendamientos, lo que le permite contar con autonomía financiera y recursos para hacer inversión social. </p>
                     <p><img src="img/grafico1.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -55,8 +70,16 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-1">
+        <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -68,6 +91,15 @@
                     </div>
                     <br><br><br>
                     <p><img src="img/grafico2.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -85,8 +117,16 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-1">
+        <div class="pt-page pt-page-3">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -98,6 +138,15 @@
                     </div>
                     <br><br><br>
                     <p><img src="img/grafico3.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -115,8 +164,13 @@
                 </div>
             </div>
         </div>
-        <div class="pt-page pt-page-1">
+        <div class="pt-page pt-page-4">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
@@ -127,6 +181,12 @@
                     </div>
                     <br><br><br>
                     <p><img src="img/grafico4.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

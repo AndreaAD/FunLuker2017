@@ -8,6 +8,13 @@
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -24,7 +31,14 @@
                     <h5 class="destacado azul">Programa de Mentoría Empresarial</h5>
                     <p class="texto">Invita empresarios o corporativos con gran trayectoria a compartir su experiencia y generar relaciones de largo plazo con empresarios en crecimiento para disminuir los riesgos en su proceso.</p>
                     <h5 class="destacado azul">Profesores de Alto Potencial</h5>
-                    <p class="texto">Es un programa para docentes que apunta a generar una transformación en la forma como se enseña emprendimiento en las universidades y en la forma como la academia se relaciona con el entorno.</p>
+                    <p class="texto">Es un programa para docentes que apunta a generar una transformación en la forma como se enseña emprendimiento en las universidades y en la forma como la academia se relaciona con el entorno.</p><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -47,6 +61,14 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -64,6 +86,15 @@
                     <p class="texto">Es un programa de aceleración intensiva dirigido a empresas en etapa temprana, que a lo largo de seis semanas enfrentan los principales retos de crecimiento. Los empresarios reciben entrenamiento, mentoría y asesoría personalizada. </p>
                     <h5 class="destacado azul">La Ruta del Emprendimiento</h5>
                     <p class="texto">Es un programa de formación orientado al fortalecimiento y al desarrollo de competencias en emprendimiento que les permita a los estudiantes pensar y actuar de manera emprendedora. Está compuesto por seis asignaturas: Emprendimiento, Marketing y Ventas para Emprendedores, Propiedad Intelectual para Emprendedores, Emprendimiento Social, Finanzas para Emprendedores y Gerencia de Empresas en Crecimiento.  </p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -86,6 +117,14 @@
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -107,6 +146,15 @@
                         <li>Se llevó a cabo un piloto para la identificación de nuevos perfiles de entrenadores, que complementen y acompañen las clases dictadas por lo docentes de Babson College.</li>
 
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -129,6 +177,14 @@
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -158,6 +214,15 @@
                         <li>Manizales Más fue destacado por la revista Dinero como protagonista de los ecosistemas de emprendimiento del país </li>
 
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -180,6 +245,14 @@
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -205,6 +278,15 @@
                         <li>Se celebró una alianza con Bancoldex y la Cámara de Comercio de Manizales por Caldas para llevar a cabo un programa integral de intervención estratégica, cuyos beneficiarios fueron las Empresas de Alto Potencial. En este programa se desarrollaron distintos temas como: gestión estratégica en modelos de negocio, gobierno corporativo en empresas de familia y sostenibilidad financiera. </li>
                         <li>Siete empresas se vincularon al programa de Mentor Exportador de Bancoldex.</li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -227,6 +309,14 @@
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -242,6 +332,15 @@
                     <p class="texto">Fundación Luker, Alcaldía de Manizales, Findeter, Cámara de Comercio de Manizales por Caldas, Universidad de Manizales, Universidad de Caldas, Universidad Católica de Manizales, Universidad Autónoma de Manizales, Universidad Nacional Sede Manizales, Chec, Actuar Microempresas, Incubar Manizales, Parquesoft Manizales, Red de Emprendimiento de Caldas, Innpulsa y Gobernación de Caldas, y con el apoyo de la Andi en el programa de Mentoría Empresarial. </p>
                     <p><img src="img/tabla4.png" class="img-responsive"></p>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -264,6 +363,14 @@
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -276,6 +383,15 @@
                     </div>
                     </br></br></br>
                     <p><img src="img/tabla5.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -298,6 +414,11 @@
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -316,7 +437,12 @@
                         <li>El aprendizaje del piloto de créditos con Bancoldex. </li>
                         <li>La participación en  pilotos para la implementación de nuevos modelos de financiación. </li>
                         <li>El reto de implementación del modelo de donaciones. </li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

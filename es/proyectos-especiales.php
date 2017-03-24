@@ -8,6 +8,13 @@
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -21,7 +28,14 @@
                     <h5 class="destacado azul">PROYECTOS ESPECIALES</h5>
                     <p class="texto">Los proyectos especiales de la Fundación le apuntan a desarrollar iniciativas de impacto en nutrición, vivienda, salud y tercera edad, y a contribuir con la labor social de instituciones de la ciudad. </p>
                     <p class="texto">A través del área de Proyectos Especiales apoyamos y acompañamos en 2016, doce organizaciones sociales que trabajan con población vulnerable: Nutrir, Monasterio La Visitación de María Santísima, Fundación San Ezequiel Moreno, Seminario Mayor de Nuestra Señora, Colegio Eugenia Ravasco, Fundación Obras Sociales Betania, Religiosas Adoratrices, Fundación Alejandra Vélez Mejía, Corporación Ceder, Hogar San Judas Tadeo, Hogar Guadalupe y Hogar San Francisco de Asís.</p>
-
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -50,6 +64,14 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_2.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -68,6 +90,15 @@
                         <li>El proyecto de generación de ingresos con un enfoque humano-social, se hizo posible gracias a una alianza entre Obras Sociales Betania, Fundacion Bolívar Davivienda, Universidad Católica de Manizales y Fundación Luker.</li>
                         <li>La puesta en marcha de la unidad de confección Sueños Tejidos con 21 mujeres de San Sebastian de Betania, que le apunta desde hace 4 años a mejorar los ingresos y las condiciones de vida de personas de esta comunidad.</li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -96,6 +127,14 @@
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -113,6 +152,15 @@
                     <p class="texto">El estudio longitudinal realizado a las madres y a los niños del programa durante los 33 meses de intervención, soporta los resultados alcanzados que apuntan a impactar la política pública de primera infancia de la ciudad. Se buscará escalar la experiencia  en el municipio, incidiendo en la generación de entornos óptimos para el desarrollo y bienestar de nuestros niños.</p>
 
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -141,6 +189,14 @@
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_4.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -167,6 +223,15 @@
                     </ul>
 
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -195,6 +260,14 @@
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -216,6 +289,15 @@
                         <li>La posibilidad de replicar el modelo de los primeros mil días de Alimentamor con otro grupo de gestantes y lactantes es una oportunidad para su validación y fortalecimiento</li>
                     </ul>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -244,6 +326,14 @@
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_6.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -268,6 +358,15 @@
                         <li>La apertura del programa para niños más pequeños permitirá una iniciación musical más temprana en los niños de las comunas. </li>
                     </ul>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -296,6 +395,14 @@
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -316,6 +423,15 @@
                     </ul>
                     <h5 class="destacado azul">Manizales Cómo Vamos</h5>
                     <p class="texto">Esta iniciativa, promovida por los sectores privado, social y académico de la ciudad y de la cual hace parte la Fundación Luker, hace seguimiento y evalúa la calidad de vida en Manizales, con el propósito de contribuir al desarrollo de gobiernos e instituciones más efectivas y transparentes, y ciudadanías más informadas, responsables y participativas.</p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -344,6 +460,14 @@
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_8.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -369,6 +493,15 @@
                         <li>El programa fue reconocido por el Consejo Privado de Competitividad como una de las prácticas más destacadas en materia de fortalecimiento institucional del departamento.</li>
                     </ul>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -397,6 +530,14 @@
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -415,6 +556,15 @@
                     <p class="texto">El programa también participó, en conjunto con Todos por la Educación y Alianza por la Educación, en la gestación de la Bancada por la Educación, a través de un acto simbólico de matrícula de los concejales de Manizales, en el cual se comprometieron con los retos en materia de educación: jornada única, atención a la primera infancia y cualificación de los docentes.</p>
 
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -443,6 +593,14 @@
         </div>
         <div class="pt-page pt-page-10">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_10.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -465,6 +623,15 @@
                         <li>La articulación del proyecto Batuta Moog con el programa La Universidad en Tu Colegio es una ventana de oportunidad para el fortalecimiento de esta unidad de negocio.</li>
                     </ul>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -493,6 +660,14 @@
         </div>
         <div class="pt-page pt-page-11">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -506,6 +681,15 @@
                     <br><br><br>
                     <p><img src="img/tabla6.png" class="img-responsive"></p>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -534,6 +718,14 @@
         </div>
         <div class="pt-page pt-page-12">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_12.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -547,6 +739,15 @@
                     <br><br><br>
                     <p><img src="img/tabla7.png" class="img-responsive"></p>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -575,6 +776,14 @@
         </div>
         <div class="pt-page pt-page-13">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -587,6 +796,15 @@
                     </div>
                     <br><br><br>
                     <p><img src="img/tabla8.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -615,6 +833,11 @@
         </div>
         <div class="pt-page pt-page-14">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyecto_foto_14.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -626,6 +849,12 @@
                     </div>
                     <br><br><br>
                     <p><img src="img/tabla9.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

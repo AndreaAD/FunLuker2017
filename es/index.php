@@ -17,6 +17,13 @@
         <!--All Pages-->
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -30,6 +37,13 @@
                     <p class="texto">Los resultados de nuestro  trabajo en alianza,    nos confirma que esta es la mejor estrategia para alcanzar resultados sostenibles  que permitan  desarrollar el potencial de las personas y de las comunidades, para que puedan ser gestoras de su propio desarrollo.     </p>
                     <p class="texto">Proyectos como Escuela Activa Urbana, La Universidad en Tu Colegio y Manizales Campus Universitario, son buena muestra de ello.  </p>
                     <p class="texto">El primero recibió en 2016 un reconocimiento del Ministerio de Educación y la OCDE como interesante novedad, en su informe sobre revisión de políticas nacionales de educación. La Universidad en Tu Colegio sigue fortaleciendo su propuesta para que estudiantes de colegios oficiales que hacen parte del modelo EAU, puedan ingresar a programas de formación técnica y tecnológica en universidades e instituciones reconocidas de la ciudad y así contrarrestar los bajos niveles de absorción de los jóvenes a la educación superior.</p>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -48,6 +62,11 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
@@ -64,6 +83,12 @@
                     <p class="texto">Todos estos logros se han hecho posibles gracias al entusiasmo y compromiso de un excelente equipo de trabajo y de los múltiples aliados que unen sus esfuerzos a los nuestros. A todos ellos mis más sinceras felicitaciones.</p>
                     <span class="texto destacado azul">Pablo Jaramillo Villegas </span><br>
                     <span class="texto">Gerente Fundación Luker  </span>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

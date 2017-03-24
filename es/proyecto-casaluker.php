@@ -8,6 +8,13 @@
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyectoluker_foto1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -24,7 +31,14 @@
                     <ul class="texto">
                         <li>Gracias al trabajo conjunto con el área agrícola de CasaLuker, en 2016 avanzamos en la construcción de material pedagógico para técnicos y agricultores, que le aporta al fortalecimiento de los procesos de formación en cacao que CasaLuker promueve en el país</li>
                         <li>El trabajo en educación en Necoclí, alrededor de la zona de influencia del proyecto productivo, ha permitido mejorar los ambientes de aprendizaje y las condiciones en las que los niños estudian, además de fortalecer los procesos sociales con la comunidad cercana al proyecto. Con este trabajo se logró:</li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -43,6 +57,14 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyectoluker_foto2.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -60,7 +82,15 @@
                         - La participación activa de la comunidad en las diferentes actividades. <br>
                         - 55 jóvenes de la región fueron certificados como Técnicos Laborales en Cacao.<br>
                         - La dotación de parques recreativos para las tres escuelas de la zona, en articulación con el proyecto de construcción participativa con ecoladrillos, como una alternativa de esparcimiento.<br>
-                    </p>
+                    </p><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -79,6 +109,14 @@
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyectoluker_foto3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -92,6 +130,15 @@
                     <br><br><br>
                     <p><img src="img/tabla10.png" class="img-responsive"></p>
                     <p><img src="img/tabla11.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -110,6 +157,11 @@
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/proyectoluker_foto5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -123,6 +175,12 @@
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="subtitulo_medio_gris">Oportunidades:</h5>
                     <p class="texto">Como parte de estrategia de valor compartido de la compañía se adelanta la estructuración de un proyecto social ambicioso, articulado al proyecto productivo y soportado en la construcción del Sueño de Chocolate para Necoclí. Este esfuerzo constituye una oportunidad única para generar un modelo que permita el desarrollo de un territorio a partir del cacao, el cual pueda replicarse en el futuro en otros proyectos de siembra en el país.</p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">

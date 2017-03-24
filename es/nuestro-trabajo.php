@@ -8,6 +8,13 @@
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -27,7 +34,14 @@
                         <li>Se lograron mayores niveles de autonomía y liderazgo en los estudiantes, en especial en el desarrollo de competencias comunicativas.</li>
                         <li>También se logró mayor compromiso de las instituciones educativas, sus directivos, docentes y estudiantes.</li>
                         <li>Se construyó la nueva versión de módulos para el desarrollo de la asignatura de Gestión de Negocios, con el objetivo de dar valor agregado a la formación de los jóvenes que cursan la educación media, desarrollando competencias y estrategias del emprendimiento de alto impacto y el enfoque de Pensamiento-Acción.</li>
-                    </ul>
+                    </ul><br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -54,6 +68,14 @@
         </div>
         <div class="pt-page pt-page-2">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -76,6 +98,15 @@
                         <li>17 instituciones educativas de EAU implementan el proyecto La Universidad en Tu Colegio.</li>
 
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -102,6 +133,14 @@
         </div>
         <div class="pt-page pt-page-3">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -118,6 +157,15 @@
                     </ul>
                     <p><img src="img/tabla1.png" class="img-responsive"></p>
 
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -144,6 +192,14 @@
         </div>
         <div class="pt-page pt-page-4">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -160,6 +216,15 @@
                         <li>Se lograron cambios positivos en el proyecto de vida de los estudiantes, con disminución del riesgo social y los padres de familia se mostraron más interesados con el proceso académico de sus hijos.</li>
                         <li>Se fortaleció el currículo de educación básica y media, se diseñó una ruta de Orientación Socio Ocupacional acorde con las necesidades y particularidades del proyecto y se adelantó el piloto del programa Técnico Laboral en Asistente de Preescolar, con excelentes resultados.</li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -186,6 +251,14 @@
         </div>
         <div class="pt-page pt-page-5">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -205,6 +278,15 @@
                         <li>Consultores del BID diseñaron materiales para la enseñanza de la lectura y de la escritura en grado primero. A finales de 2016 fueron entregadas como producto final de dos años de trabajo dos cartillas del estudiante, dos del maestro y un libro de cuentos basado en el método Fonético Analítico Sintético. </li>
                         <li>Con la Universidad de Harvard y el apoyo de la Secretaría de Educación de Manizales se llevó a cabo la estrategia de información a docentes y padres de familia sobre el desempeño de los estudiantes.  </li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -231,6 +313,14 @@
         </div>
         <div class="pt-page pt-page-6">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -246,6 +336,15 @@
                     <p class="texto"><strong class=" destacado azul">NOTA:</strong> Las intervenciones de Aprende son evaluadas a través de las pruebas diagnósticas <strong>EGRA</strong> (Early Grade Reading Assessment) y <strong>EGMA</strong> (Early Grade Math Assessment). Se realizan pruebas de línea de base y de línea final por cada intervención. </p><br>
                     <h5 class="destacado azul">Manizales Campus Universitario</strong></h5>
                     <p class="texto">La visión del programa es hacer de Manizales un campus universitario de clase mundial con el concurso del sector académico, el privado y el gobierno de la ciudad. El programa fortalece una oferta académica, cultural y de servicios de alta calidad especialmente diseñados para atraer y formar estudiantes nacionales y extranjeros que tendrán una experiencia de vida sin igual, en un entorno reconocido por su cultura, biodiversidad y calidad de vida.</p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -272,6 +371,14 @@
         </div>
         <div class="pt-page pt-page-7">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -293,6 +400,15 @@
                             <li>Se publicó la agenda cultural, deportiva y recreativa de Manizales, tanto en en www.manizalescampusuniversitario.com como en 3.000 ejemplares físicos distribuidos cada mes.</li>
                             <li>Más de 200 establecimientos comerciales vinculados al proyecto otorgan beneficios a los estudiantes universitarios. </li>
                         </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -319,6 +435,14 @@
         </div>
         <div class="pt-page pt-page-8">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -338,6 +462,15 @@
                     </ul>
                     <h5 class="subtitulo_azul">Participación en política pública</h5>
                     <p class="texto">El proyecto Escuela Activa Urbana se consolida cada vez más como un programa fundamental para el mejoramiento de la calidad educativa de Manizales. El proyecto ha sido apoyado por seis administraciones municipales, incluida la posesionada en enero de 2016, que ha considerado esta iniciativa como una de sus principales estrategias de calidad y ha dado su apoyo al crecimiento del proyecto La Universidad en Tu Colegio.</p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -364,6 +497,14 @@
         </div>
         <div class="pt-page pt-page-9">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -393,6 +534,15 @@
                         <li>Limitada oferta actual de programas técnicos profesionales por parte de las universidades.</li>
                         <li>Retiro de jóvenes del proceso, principalmente por debilidades académicas.</li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -419,6 +569,14 @@
         </div>
         <div class="pt-page pt-page-10">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion19.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -444,6 +602,15 @@
                         <li>Pilotear los materiales diseñados y analizar a profundidad los programas que se han piloteado representa una oportunidad pero también un reto.</li>
                         <li>Apertura y disposición de los colegios de la estrategia Padrinos para llevar a cabo las actividades del proyecto. </li>
                     </ul>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -471,6 +638,14 @@
         </div>
         <div class="pt-page pt-page-11">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion21.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -483,6 +658,15 @@
                     </div>
                     </br></br></br>
                     <p><img src="img/tabla2.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="17" data-goto="-1">Siguiente <i class="fa fa-angle-right"></i> </a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -510,6 +694,11 @@
         </div>
         <div class="pt-page pt-page-12">
             <div class="row contenido">
+                <div class="row text-center visible-xs navegacionSlides">
+                    <div class="col-xs-8 pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                    </div>
+                </div>
                 <div class="col-sm-5 padd-lef col-izq">
                     <img src="img/educacion23.png" class="img_izquierda hidden-xs" alt="">
                 </div>
@@ -521,6 +710,12 @@
                     </div>
                     </br></br></br>
                     <p><img src="img/tabla3.png" class="img-responsive"></p>
+                    <br><br>
+                    <div class="row text-center visible-xs navegacionSlides">
+                        <div class="col-xs-8 pt-trigger-container">
+                            <a class="pt-trigger" data-animation="18" data-goto="-2"><i class="fa fa-angle-left"></i> Anterior</a>
+                        </div>
+                    </div>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
