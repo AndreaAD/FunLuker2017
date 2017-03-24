@@ -1,10 +1,10 @@
-<?php 
+<?php
     $activo = 4;
     $activo_submenu = 3;
-    include 'header.php'; 
+    include 'header.php';
 ?>
 <div class="container principal">
-    <?php include 'submenu_nuestro_trabajo.php';?> 
+    <?php include 'submenu_nuestro_trabajo.php';?>
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
@@ -12,11 +12,16 @@
                     <img src="img/proyecto_foto_1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN PROYECTOS ESPECIALES <br><strong> Y OTRAS INICIATIVAS DE CIUDAD</strong></h4>     
+                    <div class="btn-izq pt-trigger-container">
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN PROYECTOS ESPECIALES <br><strong> Y OTRAS INICIATIVAS DE CIUDAD</strong></h4>
                     <h5 class="destacado azul">PROYECTOS ESPECIALES</h5>
                     <p class="texto">Los proyectos especiales de la Fundación le apuntan a desarrollar iniciativas de impacto en nutrición, vivienda, salud y tercera edad, y a contribuir con la labor social de instituciones de la ciudad. </p>
                     <p class="texto">A través del área de Proyectos Especiales apoyamos y acompañamos en 2016, doce organizaciones sociales que trabajan con población vulnerable: Nutrir, Monasterio La Visitación de María Santísima, Fundación San Ezequiel Moreno, Seminario Mayor de Nuestra Señora, Colegio Eugenia Ravasco, Fundación Obras Sociales Betania, Religiosas Adoratrices, Fundación Alejandra Vélez Mejía, Corporación Ceder, Hogar San Judas Tadeo, Hogar Guadalupe y Hogar San Francisco de Asís.</p>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -28,12 +33,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li> 
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -49,11 +54,17 @@
                     <img src="img/proyecto_foto_2.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
                         <li>El cumplimiento de las dos metas establecidas para Alimentamor: control del bajo peso al nacer y disminución de la desnutrición crónica en los menores de 2 años. La primera estuvo muy cerca a la prevalencia del bajo peso al nacer en Manizales: Alimentamor: 8.75% - Manizales: 8.3%. La segunda alcanzó un resultado muy satisfactorio pues la prevalencia fue de casi la mitad de la de Manizales (14.7% vs 7.8% de Alimentamor).</li>
-                        
+
                         <li>El proyecto de generación de ingresos con un enfoque humano-social, se hizo posible gracias a una alianza entre Obras Sociales Betania, Fundacion Bolívar Davivienda, Universidad Católica de Manizales y Fundación Luker.</li>
                         <li>La puesta en marcha de la unidad de confección Sueños Tejidos con 21 mujeres de San Sebastian de Betania, que le apunta desde hace 4 años a mejorar los ingresos y las condiciones de vida de personas de esta comunidad.</li>
                     </ul>
@@ -68,12 +79,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>                  
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -89,13 +100,19 @@
                     <img src="img/proyecto_foto_3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                </br></br></br>                    
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                </br></br></br>
                 <h5 class="destacado azul">Alimentamor</h5>
                     <p class="texto">Este proyecto de atención integral a gestantes y a sus hijos hasta los 2 años finalizó en 2016, momento en el que los niños del programa alcanzaron la edad límite para cumplir con la atención durante sus primeros mil días de vida. </p>
                     <p class="texto">La iniciativa, promovida por la Alcaldía de Manizales a través de la Secretaria de Salud del municipio, la Fundación Éxito, la Fundación Nutrir, la Universidad de Caldas y la Fundación Luker, buscó contribuir con el control del bajo peso al nacer y la disminución de la desnutrición crónica durante los dos primeros años de vida. Tal propósito se cumplió, así como el de desarrollar un modelo operativo de atención integral para niños hijos de madres gestantes de nuestra ciudad.</p>
                     <p class="texto">El estudio longitudinal realizado a las madres y a los niños del programa durante los 33 meses de intervención, soporta los resultados alcanzados que apuntan a impactar la política pública de primera infancia de la ciudad. Se buscará escalar la experiencia  en el municipio, incidiendo en la generación de entornos óptimos para el desarrollo y bienestar de nuestros niños.</p>
 
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -107,12 +124,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>                
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -128,6 +145,12 @@
                     <img src="img/proyecto_foto_4.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>  
                     <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
@@ -142,8 +165,8 @@
                         <li>64% de las madres reingresaron al sistema educativo o continuaron su formación.</li>
                         <li>92% de las madres consideraron que adquirieron herramientas para fortalecer el vínculo afectivo con sus hijos y su familia</li>
                     </ul>
-                    
-                   
+
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -155,12 +178,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>                
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -176,7 +199,13 @@
                     <img src="img/proyecto_foto_5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    </br></br></br> 
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                    </br></br></br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="subtitulo_medio_gris">Riesgos:</h5>
                     <ul class="texto">
@@ -186,7 +215,7 @@
                     <ul class="texto">
                         <li>La posibilidad de replicar el modelo de los primeros mil días de Alimentamor con otro grupo de gestantes y lactantes es una oportunidad para su validación y fortalecimiento</li>
                     </ul>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -198,12 +227,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>                
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -219,6 +248,12 @@
                     <img src="img/proyecto_foto_6.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <h5 class="destacado azul">OTRAS INICIATIVAS DE CIUDAD</h5>
                     <h5 class="destacado azul">Escuelas de Formación Sinfónica Musical San José y La Fuente</h5>
@@ -232,7 +267,7 @@
                         <li>El retorno de estudiantes y egresados convertidos en docentes y tutores del programa en las comunas es un ejemplo y un aliciente para los niños participantes.</li>
                         <li>La apertura del programa para niños más pequeños permitirá una iniciación musical más temprana en los niños de las comunas. </li>
                     </ul>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -244,12 +279,12 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>               
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -265,6 +300,12 @@
                     <img src="img/proyecto_foto_7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                 </br></br></br>
                     <h5 class="destacado azul">Batuta Moog</h5>
                     <p class="texto">Es la unidad de Batuta a través de la cual se ofertan programas en nuevas tecnologías del sonido y géneros musicales contemporáneos, a nivel técnico y no formal.</p>
@@ -286,12 +327,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>            
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>               
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -307,6 +348,12 @@
                     <img src="img/proyecto_foto_8.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
@@ -321,7 +368,7 @@
                         <li>Se activó la participación ciudadana a través de iniciativas como: Sistematización de iniciativas finalistas del premio cívico, maratón de retos con estudiantes de ingeniería y  Paz a la Educación, entre otras.</li>
                         <li>El programa fue reconocido por el Consejo Privado de Competitividad como una de las prácticas más destacadas en materia de fortalecimiento institucional del departamento.</li>
                     </ul>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -333,12 +380,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>                
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -354,14 +401,20 @@
                     <img src="img/proyecto_foto_9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <h5 class="destacado azul">Participación en política pública</h5>
                     <p class="texto">Dentro de las prácticas de articulación más exitosas del departamento de Caldas en materia de institucionalidad se destaca el programa Manizales Cómo Vamos.</p>
                     <p class="texto">En 2016, esta iniciativa incidió en políticas públicas y en el proceso de planeación de la ciudad a través de la construcción participativa de los principales retos para Manizales. Con base en estos retos se realizó una agenda de movilización que incluyó eventos públicos, mesas de trabajo con expertos e informes especiales.</p>
                     <p class="texto">Con el propósito de contribuir a robustecer el documento del plan de desarrollo y aportar en la construcción de una ciudad con mejor calidad de vida para sus habitantes, MCV participó en la discusión del documento base del plan de desarrollo 2016 - 2019, presentando algunas alertas y comentarios que puso a disposición del Consejo Territorial de Planeación (CTP), la Secretaría de Planeación y el Concejo Municipal. Este ejercicio recogió recomendaciones de 75 expertos académicos y de actores comunitarios que participaron en seis mesas de trabajo promovidas por el programa. </p>
                     <p class="texto">El programa también participó, en conjunto con Todos por la Educación y Alianza por la Educación, en la gestación de la Bancada por la Educación, a través de un acto simbólico de matrícula de los concejales de Manizales, en el cual se comprometieron con los retos en materia de educación: jornada única, atención a la primera infancia y cualificación de los docentes.</p>
-                    
-                    
+
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -373,12 +426,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>                 
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -394,6 +447,12 @@
                     <img src="img/proyecto_foto_10.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="subtitulo_medio_gris">Riesgos:</h5>
@@ -405,7 +464,7 @@
                         <li>La posibilidad de Manizales Cómo Vamos de profundizar en temas de interés de la ciudad representa una oportunidad para seguir aportando a las apuestas de desarrollo de Manizales. </li>
                         <li>La articulación del proyecto Batuta Moog con el programa La Universidad en Tu Colegio es una ventana de oportunidad para el fortalecimiento de esta unidad de negocio.</li>
                     </ul>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -417,12 +476,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>           
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -438,9 +497,15 @@
                     <img src="img/proyecto_foto_11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p><img src="img/tabla6.png" class="img-responsive"></p>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -452,12 +517,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>         
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="11">11</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -473,9 +538,15 @@
                     <img src="img/proyecto_foto_12.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p><img src="img/tabla7.png" class="img-responsive"></p>
-                    
+
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -487,12 +558,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>          
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>            
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="12">12</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li> 
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>          
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="12">12</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -508,6 +579,12 @@
                     <img src="img/proyecto_foto_13.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p><img src="img/tabla8.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -521,12 +598,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>          
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="13">13</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>          
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -542,6 +619,11 @@
                     <img src="img/proyecto_foto_14.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                    </div>
                     <br><br><br>
                     <p><img src="img/tabla9.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -555,12 +637,12 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>          
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="10">10</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="11">11</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="12">12</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>          
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="14">14</a></li>          
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="13">13</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="14">14</a></li>
                           </ul>
                         </nav>
                     </div>

@@ -1,10 +1,10 @@
-<?php 
+<?php
     $activo = 4;
     $activo_submenu = 2;
-    include 'header.php'; 
+    include 'header.php';
 ?>
 <div class="container principal">
-    <?php include 'submenu_nuestro_trabajo.php';?> 
+    <?php include 'submenu_nuestro_trabajo.php';?>
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
@@ -12,7 +12,12 @@
                     <img src="img/emprend1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO <br><strong> EN EMPRENDIMIENTO</strong></h4>     
+                    <div class="btn-izq pt-trigger-container">
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO <br><strong> EN EMPRENDIMIENTO</strong></h4>
                     <p class="texto">A través de Manizales Más, la alianza para el desarrollo integral del ecosistema de emprendimiento de Manizales, se trabajó durante 2016 en seis programas: Empresas de Alto Potencial, Mentoría Empresarial, Profesores de Alto Potencial, Startup Más, Addventure Más y La Ruta del Emprendimiento.</p>
                     <h5 class="destacado azul">Empresas de Alto Potencial, EAP</h5>
                     <p class="texto">Es un entrenamiento en nuevas capacidades, con apoyo de mentores y relacionamiento, diseñado para ayudar a incrementar las ventas y las utilidades. Lleva a los empresarios a crecer de forma acelerada.</p>
@@ -30,7 +35,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>          
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -46,6 +51,12 @@
                     <img src="img/emprend3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
                     <h5 class="destacado azul">Startup Más </h5>
                     <p class="texto">Este programa identifica y fortalece iniciativas empresariales de los estudiantes, egresados y miembros en general de las universidades aliadas de Manizales Más. </p>
@@ -63,7 +74,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>     
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -79,6 +90,12 @@
                     <img src="img/emprend5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
                     <h5 class="subtitulo_azul">Innovaciones en 2016</strong></h5> 
                     <ul class="texto">
@@ -89,7 +106,7 @@
                         <li>Por primera vez los Affiliates entrenados por Babson tuvieron una experiencia directa de entrenamiento en los talleres de “Pensamiento y Acción Emprendedora” para los docentes de las universidades de SUMA. </li>
                         <li>Se llevó a cabo un piloto para la identificación de nuevos perfiles de entrenadores, que complementen y acompañen las clases dictadas por lo docentes de Babson College.</li>
 
-                    </ul>  
+                    </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -100,7 +117,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>    
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -116,6 +133,12 @@
                     <img src="img/emprend7.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
                     <h5 class="subtitulo_azul">Lo más destacado en 2016</strong></h5> 
                     <ul class="texto">
@@ -133,8 +156,8 @@
                         <li>Manizales Más participó a través de la empresa Natura-les en el gran desafío de la inversión, dentro del marco del Global Entrepreneurship Congress. Esta misma empresa también fue seleccionada para el Latam Venture Forum. </li>
                         <li>Maquiempanadas, Pasteliarte y Soluciones Microbianas del Trópico, empresas de Manizales Más, recibieron exaltación a la excelencia como empresas embajadoras de la innovación, en el congreso anual de Confecámaras.</li>
                         <li>Manizales Más fue destacado por la revista Dinero como protagonista de los ecosistemas de emprendimiento del país </li>
-                        
-                    </ul> 
+
+                    </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -145,7 +168,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>        
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -161,14 +184,20 @@
                     <img src="img/emprend9.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
                     <ul class="texto">
                         <li>Manizales Más fue seleccionado para hacer parte del grupo de 12 empresas que se entrenan en el programa “Trayectoria Mega” de la Cámara de Comercio de Manizales por Caldas. Este es un programa de mentoría, que acompaña a los empresarios en el establecimiento de metas de largo plazo y la planeación estratégica para el cumplimiento de las mismas. </li>
                         <li>La GIZ (Agencia de Cooperación Alemana), después de un análisis, en el que determinó que Manizales Más tiene uno de los ecosistemas más destacados de emprendimiento a nivel nacional, desplazó una delegación de 5 personas provenientes de Alemania para conocer los resultados logrados por el programa a lo largo de su desarrollo. </li>
-                        <li>16 Empresas de Alto Potencial entrenadas en 2016 alcanzaron importantes resultados: <br> 
+                        <li>16 Empresas de Alto Potencial entrenadas en 2016 alcanzaron importantes resultados: <br>
                             <p class="identado">
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Crecieron 111% (2 de ellas crecieron a más del 400%)<br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Generaron 588 nuevos empleos entre fijos y temporales <br>      
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Generaron 588 nuevos empleos entre fijos y temporales <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Obtuvieron créditos por $3.953.100.300. <br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Hicieron inversiones por $1.603.668.430
                             </p>
@@ -186,7 +215,7 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>          
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -202,6 +231,12 @@
                     <img src="img/emprend11.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
                     <h5 class="azul destacado">Aliados de Manizales Más</h5>
                     <p class="texto">Fundación Luker, Alcaldía de Manizales, Findeter, Cámara de Comercio de Manizales por Caldas, Universidad de Manizales, Universidad de Caldas, Universidad Católica de Manizales, Universidad Autónoma de Manizales, Universidad Nacional Sede Manizales, Chec, Actuar Microempresas, Incubar Manizales, Parquesoft Manizales, Red de Emprendimiento de Caldas, Innpulsa y Gobernación de Caldas, y con el apoyo de la Andi en el programa de Mentoría Empresarial. </p>
@@ -217,7 +252,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>          
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -233,6 +268,12 @@
                     <img src="img/emprend15.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
                     <p><img src="img/tabla5.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -245,7 +286,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -261,6 +302,11 @@
                     <img src="img/emprend17.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                    </div>
                     </br></br></br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="subtitulo_medio_gris">Oportunidades  </h5>
@@ -281,7 +327,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>           
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>
                           </ul>
                         </nav>
                     </div>

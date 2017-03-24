@@ -1,7 +1,7 @@
-<?php 
+<?php
     $activo = 5;
     $activo_submenu = 1;
-    include 'header.php'; 
+    include 'header.php';
 ?>
 <div class="container principal">
     <div class="row subMenu amarillo inverso">
@@ -11,7 +11,7 @@
         </div>
         <div class="col-sm-11">
             <nav>
-                
+
             </nav>
         </div>
     </div>
@@ -29,7 +29,12 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                    <h4 class="subtitulo_texto azul">DIMENSIÓN  <br> <strong> ECONÓMICA</strong></h4>              
+                    <div class="btn-izq pt-trigger-container">
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                    <h4 class="subtitulo_texto azul">DIMENSIÓN  <br> <strong> ECONÓMICA</strong></h4>
                     <p class="texto azul destacado">Origen y manejo de los recursos </p>
                     <p>Los recursos de la Fundación Luker se originan en la rentabilidad de su patrimonio: rendimientos financieros, dividendos y arrendamientos, lo que le permite contar con autonomía financiera y recursos para hacer inversión social. </p>
                     <p><img src="img/grafico1.png" class="img-responsive"></p>
@@ -40,13 +45,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -55,6 +60,12 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p><img src="img/grafico2.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -64,13 +75,13 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -79,6 +90,12 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p><img src="img/grafico3.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -88,13 +105,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -103,6 +120,11 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                    </div>
                     <br><br><br>
                     <p><img src="img/grafico4.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
@@ -112,13 +134,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
