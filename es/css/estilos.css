@@ -600,17 +600,32 @@ a.language:hover {
 }
 .paginacion.pt-trigger-container {
 	position: absolute;
-bottom: -110px;
-   /* left: 15%; */
-   /* margin: 0 auto !important; */
-   /* display: inline-block; */
-   /* margin-bottom: 20px; */
-   font-weight: 400;
-   /* text-align: center; */
-   margin: 0 auto;
-   width: 100%;
-   text-align: center;
+	bottom: -110px;
+ /* left: 15%; */
+ /* margin: 0 auto !important; */
+ /* display: inline-block; */
+ /* margin-bottom: 20px; */
+ font-weight: 400;
+ /* text-align: center; */
+ margin: 0 auto;
+ width: 100%;
+ text-align: center;
 }
+.fondo-blanco .btn-der,
+.fondo-blanco .btn-izq {
+	position: absolute;
+  top: 175px;
+	cursor: pointer;
+	z-index: 10000;
+}
+.fondo-blanco .btn-der {
+	right: -20px;
+}
+.fondo-blanco .btn-izq {
+	position: absolute;
+	left: -20px;
+}
+
 .paginacion.pt-trigger-container nav
 {
 	display: inline-block;

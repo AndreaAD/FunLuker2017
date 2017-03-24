@@ -1,10 +1,10 @@
-<?php 
+<?php
     $activo = 4;
     $activo_submenu = 4;
-    include 'header.php'; 
+    include 'header.php';
 ?>
 <div class="container principal">
-    <?php include 'submenu_nuestro_trabajo.php';?> 
+    <?php include 'submenu_nuestro_trabajo.php';?>
     <div class="row  pt-wrapper">
         <div class="pt-page pt-page-1">
             <div class="row contenido">
@@ -12,7 +12,12 @@
                     <img src="img/proyectoluker_foto1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN  <br><strong> EL PROYECTO CON CASALUKER</strong></h4>     
+                    <div class="btn-izq pt-trigger-container">
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                    <h4 class="subtitulo_texto azul">NUESTRO TRABAJO EN  <br><strong> EL PROYECTO CON CASALUKER</strong></h4>
                     <h5 class="destacado azul">Proyecto Social en Necoclí</h5>
                     <P class="texto">La Fundación Luker y CasaLuker han logrado articular esfuerzos y aprovechar la experticia de ambas organizaciones, avanzando en estos dos años de trabajo conjunto en la construcción de un modelo social alrededor de la comunidad cercana al proyecto productivo de cacao que la compañía desarrolla en Necoclí, Urabá Antioqueño.</P>
                     <h5 class="destacado azul">Proyecto Social en Necoclí</h5>
@@ -26,7 +31,7 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>  
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -42,6 +47,12 @@
                     <img src="img/proyectoluker_foto2.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p class="identado texto">
                         - La cualificación de los docentes de las tres escuelas en la metodología de Escuela Nueva.<br>
@@ -56,7 +67,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>   
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="4">4</a></li>
                           </ul>
                         </nav>
                     </div>
@@ -72,9 +83,15 @@
                     <img src="img/proyectoluker_foto3.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <br><br><br>
                     <p><img src="img/tabla10.png" class="img-responsive"></p>
-                    <p><img src="img/tabla11.png" class="img-responsive"></p>  
+                    <p><img src="img/tabla11.png" class="img-responsive"></p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -97,6 +114,11 @@
                     <img src="img/proyectoluker_foto5.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                    </div>
                     <br><br><br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
                     <h5 class="destacado azul">Oportunidades:</h5>
@@ -107,7 +129,7 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="3">3</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>    
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="4">4</a></li>
                           </ul>
                         </nav>
                     </div>

@@ -1,7 +1,7 @@
-<?php 
+<?php
     $activo = 1;
     $activo_submenu = 1;
-    include 'header.php'; 
+    include 'header.php';
 ?>
 <div class="container principal">
     <?php include 'submenu_presentacion.php';?>
@@ -20,6 +20,11 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
+                    <div class="col-sm-1 btn-left pt-trigger-container">
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     <h4 class="subtitulo_texto azul">carta de <br> <strong>la gerencia</strong></h4>
                     <p class="texto azul destacado">Lo reiteramos: una persona educada y emprendedora transforma y genera desarrollo. Con esta convicción hemos cerrado 2016 enfocando todos nuestros esfuerzos en hacer de Manizales una ciudad líder en Educación y en Emprendimiento. Los logros alcanzados nos llenan de tranquilidad y nos abren las puertas para que 2017 sea aún mejor. </p>
                     <p class="texto">Los resultados de nuestro  trabajo en alianza,    nos confirma que esta es la mejor estrategia para alcanzar resultados sostenibles  que permitan  desarrollar el potencial de las personas y de las comunidades, para que puedan ser gestoras de su propio desarrollo.     </p>
@@ -30,14 +35,14 @@
                           <ul class="pager">
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="2">2</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -47,6 +52,11 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                 </br> </br></br>
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                    </div>
                     <p class="texto">De otro lado, Manizales Campus Universitario terminó el 2016 con nuevos e importantes aliados que permiten fortalecer cada día más este proyecto y nos ayudan a entender que vamos por buen camino, enfocados todos en el mismo objetivo: hacer de Manizales la primera ciudad universitaria de Colombia. </p>
                     <p class="texto">En Manizales Más, nuestro programa de Emprendimiento, también nos hemos fortalecido con la llegada de nuevos y valiosos aliados que confían en esta apuesta.  </p>
                     <p class="texto">De igual manera, nuestros proyectos especiales, que apoyan el trabajo de diversas organizaciones de la ciudad enfocadas en la atención de niños, estudiantes, jóvenes, población discapacitada y adultos mayores, continúan contribuyendo al mejoramiento de las condiciones de vida de comunidades en nuestra ciudad.      </p>
@@ -59,14 +69,14 @@
                           <ul class="pager">
                             <li><a href="#" class="pt-trigger " data-animation="17" data-goto="1">1</a></li>
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="2">2</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
-                    
+
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>

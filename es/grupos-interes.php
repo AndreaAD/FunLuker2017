@@ -1,7 +1,7 @@
-<?php 
+<?php
     $activo = 3;
     $activo_submenu = 1;
-    include 'header.php'; 
+    include 'header.php';
 ?>
 <div class="container principal">
     <div class="row subMenu rojo inverso">
@@ -11,7 +11,7 @@
         </div>
         <div class="col-sm-11">
             <nav>
-                
+
             </nav>
         </div>
     </div>
@@ -29,10 +29,15 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                    <h4 class="subtitulo_texto azul">PARTICIPACIÓN DE <br><strong>LOS GRUPOS DE INTERÉS</strong></h4>              
+                    <div class="btn-izq pt-trigger-container">
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
+                    <h4 class="subtitulo_texto azul">PARTICIPACIÓN DE <br><strong>LOS GRUPOS DE INTERÉS</strong></h4>
                     <p>Manizales se caracteriza hoy en día por la capacidad que han desarrollado sus instituciones para establecer alianzas y trabajar en torno a objetivos comunes enfocados en el desarrollo de la ciudad.  </p>
                     <p>La Fundación Luker ha sido un actor importante en estos esfuerzos conjuntos, porque estamos seguros que el trabajo articulado con otras organizaciones locales, nacionales e internacionales permite hacer de Manizales una mejor ciudad. </p>
-                    <p>Por eso nuestra ciudad es el principal grupo de interés de la Fundación Luker, haciendo de los actores lo¬cales sus aliados más significativos para el desarrollo de sus proyectos. </p>    
+                    <p>Por eso nuestra ciudad es el principal grupo de interés de la Fundación Luker, haciendo de los actores lo¬cales sus aliados más significativos para el desarrollo de sus proyectos. </p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
                           <ul class="pager">
@@ -45,13 +50,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -60,8 +65,14 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                      <div class="btn-izq pt-trigger-container">
+                          <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                      </div>
+                      <div class="btn-der">
+                          <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                      </div>
                      </br></br>
-                     <h5 class="destacado azul">Los grupos de interés de Fundación Luker</h5> 
+                     <h5 class="destacado azul">Los grupos de interés de Fundación Luker</h5>
                      <h6>Internos:</h6>
                         <p class="indentado">Familia Fundadora <br>
                         Asamblea General <br>
@@ -78,7 +89,7 @@
                         Proveedores <br>
                         Universidades, colegios y centros de investigación
                         Zonas de influencia de algunos proyectos agrícolas de CasaLuker
-                        Programas, Iniciativas y movilizaciones sociales <br> de la ciudad 
+                        Programas, Iniciativas y movilizaciones sociales <br> de la ciudad
                         Zonas de influencia de algunos proyectos agrícolas de CasaLuker <br>
                         Programas, iniciativas y movilizaciones sociales de la ciudad
                     </p>
@@ -94,13 +105,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -109,6 +120,12 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br>
                     <h5 class="destacado azul">Aliados, proveedores y organizaciones beneficiarias 2016</h5><br>
                     <ul>
@@ -119,10 +136,10 @@
                         <li>Asociación de Fundaciones Empresariales, AFE</li>
                         <li>Asociación Luisas de Marillac</li>
                         <li>Babson College</li>
-                        <li>Banco interamericano de Desarrollo, BID</li>                          
+                        <li>Banco interamericano de Desarrollo, BID</li>
                     </ul>
                     <ul>
-                        <li>Caja de Compensación Familiar de Caldas, Confa</li>    
+                        <li>Caja de Compensación Familiar de Caldas, Confa</li>
                         <li>Coopsaludcom</li>
                         <li>Cámara de Comercio de Manizales por Caldas</li>
                         <li>CasaLuker </li>
@@ -130,11 +147,11 @@
                         <li>CHEC S.A. E.S.P.</li>
                         <li>Comité Asesor Voluntario de Nutrición, Nutrir</li>
                         <li>Comité Intergremial de Caldas</li>
-                        <li>Congregación Hijas de los Sagrados Corazones de Jesús y de María, Instituto Ravasco </li>              
+                        <li>Congregación Hijas de los Sagrados Corazones de Jesús y de María, Instituto Ravasco </li>
                         <li>Corporación Alberto Arango Restrepo, Ceder</li>
-                        <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>        
-                        <li>Corporación para el Desarrollo de Caldas</li>          
-                                      
+                        <li>Corporación Incubadora de Empresas de Base Tecnológica, Incubar</li>
+                        <li>Corporación para el Desarrollo de Caldas</li>
+
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -148,13 +165,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -163,8 +180,14 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                <div class="btn-izq pt-trigger-container">
+                    <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                </div>
+                <div class="btn-der">
+                    <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                </div>
                 </br></br></br>
-                    <ul>   
+                    <ul>
                         <li>Estoy con Manizales</li>
                         <li>Federación Nacional de Cafeteros de Colombia - Comité de Cafeteros de Caldas</li>
                         <li>Federación Nacional de Comerciantes, Fenalco - Seccional Caldas </li>
@@ -174,8 +197,8 @@
                         <li>Fundación Centro Internacional de Educación de Desarrollo Humano, Cinde</li>
                         <li>Fundación Corona</li>
                         <li>Fundación Empresarios por la Educación, ExE</li>
-                        <li>Fundación Éxito</li> 
-                        <li>Fundación Fesco</li> 
+                        <li>Fundación Éxito</li>
+                        <li>Fundación Fesco</li>
                         <li>Fundación Mario Santo Domingo</li>
                         <li>Fundación Orquestas Juveniles e Infantiles de Caldas, Batuta Caldas</li>
                         <li>Fundacion Saldarriaga Concha</li>
@@ -201,13 +224,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -216,10 +239,16 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
+                    <div class="btn-izq pt-trigger-container">
+                        <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                    </div>
+                    <div class="btn-der">
+                        <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                    </div>
                     </br></br></br>
-                    <ul>   
-                        
-                        
+                    <ul>
+
+
                         <li>Monasterio La Visitación de María Santísima</li>
                         <li>Municipio de Manizales - Secretaría de Educación Municipal</li>
                         <li>Municipio de Manizales - Secretaría de Salud</li>
@@ -244,13 +273,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -259,8 +288,14 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                </br></br></br>  
-                <h5 class="destacado azul">Contratistas 2016</h5><br>                
+                <div class="btn-izq pt-trigger-container">
+                    <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                </div>
+                <div class="btn-der">
+                    <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                </div>
+                </br></br></br>
+                <h5 class="destacado azul">Contratistas 2016</h5><br>
                     <ul><li>Sistema Universitario de Manizales (SUMA)</li>
                         <li>Unitécnica Manizales S.A.S.</li>
                         <li>Universidad Autónoma de Manizales</li>
@@ -281,7 +316,7 @@
                         <li>Aviatur S.A.</li>
                         <li>Azoma Criterio Editorial Ltda.</li>
                         <li>Bancolombia S. A.</li>
-                        
+
                     </ul>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -295,13 +330,13 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -309,8 +344,14 @@
             <div class="row contenido">
                 <div class="col-sm-5 col-izq">
                 </div>
-                <div class="col-sm-8 fondo-blanco texto"> 
-                </br></br></br>  
+                <div class="col-sm-8 fondo-blanco texto">
+                <div class="btn-izq pt-trigger-container">
+                    <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                </div>
+                <div class="btn-der">
+                    <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                </div>
+                </br></br></br>
                     <ul><li>Bus TV Publicidad S.A.S.</li>
                         <li>Capital Graphic S.A.S.</li>
                         <li>Carlos Andrés Ramírez Pineda</li>
@@ -346,13 +387,13 @@
                             <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="7">7</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="9">9</a></li>
-                           
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -361,7 +402,13 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                </br></br></br>     
+                <div class="btn-izq pt-trigger-container">
+                    <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                </div>
+                <div class="btn-der">
+                    <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                </div>
+                </br></br></br>
                     <ul>
                         <li>Freedom Center</li>
                         <li>FTI Consulting SC Ltda.</li>
@@ -404,7 +451,7 @@
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
@@ -413,7 +460,13 @@
                 <div class="col-sm-5 col-izq">
                 </div>
                 <div class="col-sm-8 fondo-blanco texto">
-                </br></br></br>     
+                <div class="btn-izq pt-trigger-container">
+                    <a class="pt-trigger" data-animation="18" data-goto="-2"><img src="img/FlechaIzq.png" alt=""></a>
+                </div>
+                <div class="btn-der">
+                    <a class="pt-trigger" data-animation="17" data-goto="-1"><img src="img/FlechaDer.png" alt=""></a>
+                </div>
+                </br></br></br>
                     <ul>
                         <li>Old Mutual Sociedad Fiduciaria S.A.</li>
                         <li>Organización Radial Olímpica S.A.</li>
@@ -444,14 +497,15 @@
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="5">5</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="6">6</a></li>
                             <li><a href="#" class="pt-trigger" data-animation="17" data-goto="7">7</a></li>
-                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="8">8</a></li>
-                           
+                            <li><a href="#" class="pt-trigger" data-animation="17" data-goto="8">8</a></li>
+                            <li><a href="#" class="pt-trigger active" data-animation="17" data-goto="9">9</a></li>
+
                           </ul>
                         </nav>
                     </div>
                 </div>
                 <div class="col-sm-3 col-izq">
-                    
+
                 </div>
             </div>
         </div>
