@@ -12,7 +12,7 @@
                     <img src="img/educacion1.png" class="img_izquierda hidden-xs" alt="">
                 </div>
                 <div class="col-sm-8 fondo-blanco">
-                    <h4 class="subtitulo_texto azul">Escuela <br><strong>Activa Urbana</strong></h4>     
+                    <h5 class="destacado azul">Escuela Activa Urbana</h5>     
                     <p class="texto">Desde 2002 la alianza Secretaría de Educación de Manizales - Fundación Luker implementa el modelo pedagógico Escuela Activa Urbana (EAU), con el objetivo de mejorar la calidad de la educación de colegios oficiales que atienden población en situación de vulnerabilidad. </p>
                     <p class="texto">EAU fomenta un aprendizaje activo, participativo y cooperativo, así como habilidades para el análisis, la creatividad y la investigación. El modelo también promueve la formación de habilidades cognitivas y no cognitivas (sociales y emocionales), favoreciendo la integración de la comunidad educativa. </p>
                     <ul class="texto">
@@ -242,7 +242,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>
-                    <h5 class="destacado azul">Principales resultados e innovaciones en 2016</h5>
+                    <h6 class="subtitulo_azul">Principales resultados e innovaciones en 2016</h6>
                         <ul class="texto">
                             <li>Se sumaron nuevos aliados: Fenalco, Findeter, Gobernación de Caldas, Comité Integremial de Caldas, Centro Colombo Americano, ANDI, Alcaldía de Manizales.</li>
                             <li>Se realizó una pasantía a Valparaíso (Chile) y a Mendoza (Argentina), para conocer su experiencia como ciudades universitarias. </li>
@@ -289,7 +289,7 @@
                         <li>Se abrió la Oficina de la Bici para impulsar campañas de uso de la bicicleta con visitas a colegios, universidades y empresas de la ciudad. </li>
                         <li>Se hizo presencia en Expoestudiante Nacional- Bogotá donde se mostró a Manizales como ciudad universitaria en todas sus dimensiones (94.478 asistentes a la feria). </li>
                     </ul>
-                    <h5 class="destacado azul">Participación en política pública</h5>
+                    <h5 class="subtitulo_azul">Participación en política pública</h5>
                     <p class="texto">El proyecto Escuela Activa Urbana se consolida cada vez más como un programa fundamental para el mejoramiento de la calidad educativa de Manizales. El proyecto ha sido apoyado por seis administraciones municipales, incluida la posesionada en enero de 2016, que ha considerado esta iniciativa como una de sus principales estrategias de calidad y ha dado su apoyo al crecimiento del proyecto La Universidad en Tu Colegio.</p>
                     <div class="paginacion pt-trigger-container">
                         <nav>
@@ -323,19 +323,19 @@
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>
                     <h5 class="destacado azul">Principales riesgos y/o oportunidades</h5>
-                    <h5 class="destacado azul">Escuela Activa Urbana:</h5>
-                    <h5 class="destacado azul">Riesgos</h5>
+                    <h5 class="subtitulo_azul">Escuela Activa Urbana:</h5>
+                    <h5 class="subtitulo_medio_gris">Riesgos</h5>
                     <ul class="texto">
                         <li>Algunos cambios de directivos y de docentes que implican reprocesos en las instituciones educativas.</li>
                         <li>Apatía de algunos docentes frente a las metodologías activas</li>
                     </ul>
-                    <h5 class="destacado azul">Oportunidades</h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades</h5>
                     <ul class="texto">
                         <li>Manizales fue incluida con otras diez ciudades del mundo en el Piloto de Evaluación de Competencias Socio Emocionales a cargo de la OCDE.</li>
                         <li>La oportunidad de que más colegios en Manizales cuenten con pedagogías activas a través de la implementación de Escuela Activa Urbana.</li>
                     </ul>
-                    <h5 class="destacado azul">La Universidad en Tu Colegio:</h5>
-                    <h5 class="destacado azul">Riesgos</h5>
+                    <h5 class="subtitulo_azul">La Universidad en Tu Colegio:</h5>
+                    <h5 class="subtitulo_medio_gris">Riesgos</h5>
                     <ul class="texto">
                         <li>Limitada oferta actual de programas técnicos profesionales por parte de las universidades.</li>
                         <li>Retiro de jóvenes del proceso, principalmente por debilidades académicas.</li>
@@ -371,7 +371,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>
-                    <h5 class="destacado azul">Oportunidades</h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades</h5>
                     <ul class="texto">
                         <li>Ampliación y actualización permanente de la oferta de programas técnicos y tecnológicos. </li>
                         <li>Trabajo articulado con los sectores productivo y académico para diseñar y/o ajustar programas que atiendan a las necesidades de las comunidades educativas.</li>
@@ -379,8 +379,8 @@
                         <li>Conexión efectiva con el sector productivo</li>
                         <li>Creación de rutas de empleabilidad para las distintas áreas de formación, con el fin de facilitar el acceso al mercado laboral.</li>
                     </ul>
-                    <h5 class="destacado azul">Aprende:</h5>
-                    <h5 class="destacado azul">Oportunidades</h5>
+                    <h5 class="subtitulo_azul">Aprende:</h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades</h5>
                     <ul class="texto">
                         <li>Pilotear los materiales diseñados y analizar a profundidad los programas que se han piloteado representa una oportunidad pero también un reto.</li>
                         <li>Apertura y disposición de los colegios de la estrategia Padrinos para llevar a cabo las actividades del proyecto. </li>

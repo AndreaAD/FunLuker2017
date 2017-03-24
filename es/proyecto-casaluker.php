@@ -99,7 +99,7 @@
                 <div class="col-sm-8 fondo-blanco">
                     <br><br><br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
-                    <h5 class="destacado azul">Oportunidades:</h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades:</h5>
                     <p class="texto">Como parte de estrategia de valor compartido de la compañía se adelanta la estructuración de un proyecto social ambicioso, articulado al proyecto productivo y soportado en la construcción del Sueño de Chocolate para Necoclí. Este esfuerzo constituye una oportunidad única para generar un modelo que permita el desarrollo de un territorio a partir del cacao, el cual pueda replicarse en el futuro en otros proyectos de siembra en el país.</p>
                     <div class="paginacion pt-trigger-container">
                         <nav>

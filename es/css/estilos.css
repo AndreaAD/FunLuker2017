@@ -837,3 +837,18 @@ ul .sinMargin.listaAzul li:before{
 .padd-lef{
 	padding-left: 0px;
 }
+.subtitulo_azul{
+	font-family: 'Oswald', sans-serif;
+	color: #008AAB;
+	margin-bottom: 10px;
+	font-size: 17px;
+	font-weight: 300 !important;
+}
+
+.subtitulo_medio_gris{
+	font-family: 'Oswald', sans-serif;
+	color: #8e8080;
+	margin-bottom: 10px;
+	font-size: 14px;
+	font-weight: 300 !important;
+}

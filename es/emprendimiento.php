@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>
-                    <h5 class="destacado azul">Innovaciones en 2016</strong></h5> 
+                    <h5 class="subtitulo_azul">Innovaciones en 2016</strong></h5> 
                     <ul class="texto">
                         <li>Se creó el programa Entidades de Soporte.</li>
                         <li>Se realizó el primer entrenamiento de Babson College en Manizales para instituciones y líderes locales, regionales y nacionales. Durante dos días, los asistentes pensaron en el crecimiento de Manizales Más.</li>
@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>
-                    <h5 class="destacado azul">Lo más destacado en 2016</strong></h5> 
+                    <h5 class="subtitulo_azul">Lo más destacado en 2016</strong></h5> 
                     <ul class="texto">
                         <li>56 empresas de Alto Potencial crecieron un 49% en promedio durante el año.</li>
                         <li>Dos nuevos aliados para Manizales más: Gobernación de Caldas e Innpulsa</li>
@@ -263,7 +263,7 @@
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
-                    <h5 class="destacado azul">Oportunidades  </h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades  </h5>
                     <ul class="texto">
                         <li>Escalar Manizales Más a otras regiones.</li>
                         <li>Lograr la expansión regional de la mano de la Gobernación de Caldas.</li>

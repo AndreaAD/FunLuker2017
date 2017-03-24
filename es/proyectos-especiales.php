@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <br><br><br>
-                    <h5 class="destacado azul">Lo más destacado en 2016</h5>
+                    <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
                         <li>El cumplimiento de las dos metas establecidas para Alimentamor: control del bajo peso al nacer y disminución de la desnutrición crónica en los menores de 2 años. La primera estuvo muy cerca a la prevalencia del bajo peso al nacer en Manizales: Alimentamor: 8.75% - Manizales: 8.3%. La segunda alcanzó un resultado muy satisfactorio pues la prevalencia fue de casi la mitad de la de Manizales (14.7% vs 7.8% de Alimentamor).</li>
                         
@@ -129,7 +129,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br>  
-                    <h5 class="destacado azul">Lo más destacado en 2016</h5>
+                    <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
                         <li>2.888 paquetes de alimentos entregados</li>
                         <li>De las 64 madres que finalizaron en el proyecto, el 83% lo hicieron con lactancia materna exclusiva.</li>
@@ -178,11 +178,11 @@
                 <div class="col-sm-8 fondo-blanco">
                     </br></br></br> 
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
-                    <h5 class="destacado azul">Riesgos:</h5>
+                    <h5 class="subtitulo_medio_gris">Riesgos:</h5>
                     <ul class="texto">
                         <li>La situación de vulnerabilidad de las beneficiarias del proyecto de gestantes “Gestar Futuro” constituye un reto para lograr los objetivos propuestos en el programa.</li>
                     </ul>
-                    <h5 class="destacado azul">Oportunidades:</h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades:</h5>
                     <ul class="texto">
                         <li>La posibilidad de replicar el modelo de los primeros mil días de Alimentamor con otro grupo de gestantes y lactantes es una oportunidad para su validación y fortalecimiento</li>
                     </ul>
@@ -223,7 +223,7 @@
                     <h5 class="destacado azul">OTRAS INICIATIVAS DE CIUDAD</h5>
                     <h5 class="destacado azul">Escuelas de Formación Sinfónica Musical San José y La Fuente</h5>
                     <p class="texto">Batuta es un programa de formación musical con más de 30 años en Caldas. Ofrece educación, práctica y disfrute musical para la sana ocupación del tiempo libre de niños y de jóvenes. La pedagogía de Batuta, que se centra en el hacer musical colectivo, es un instrumento de formación no solo musical, sino personal y ciudadana. La Fundación Luker apoya desde hace más de diez años el programa en dos de las comunas más vulnerables de la ciudad: San José y La Fuente.</p>
-                    <h5 class="destacado azul">Lo más destacado en 2016</h5>
+                    <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
                         <li>La Orquesta Sinfónica Juvenil de la Comuna San José, participó en el Encuentro Internacional de Orquestas Juveniles e Infantiles realizado en Envigado.</li>
                         <li>Se logró mayor visibilidad del programa con líderes de las comunas y mayor reconocimiento de la iniciativa en la comunidad. </li>
@@ -268,7 +268,7 @@
                 </br></br></br>
                     <h5 class="destacado azul">Batuta Moog</h5>
                     <p class="texto">Es la unidad de Batuta a través de la cual se ofertan programas en nuevas tecnologías del sonido y géneros musicales contemporáneos, a nivel técnico y no formal.</p>
-                    <h5 class="destacado azul">Lo más destacado en 2016</h5>
+                    <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
                         <li>La diversificación de la oferta de programas de Batuta ha permitido generar otras fuentes de ingresos para ayudar a financiar los proyectos sociales.</li>
                         <li>La oferta de un nuevo programa técnico en Adecuación de tecnologías de audio y video le permitió a Batuta ingresar como una nueva alternativa de formación técnica para los estudiantes de la Universidad en Tu Colegio.</li>
@@ -308,7 +308,7 @@
                 </div>
                 <div class="col-sm-8 fondo-blanco">
                     <br><br><br>
-                    <h5 class="destacado azul">Lo más destacado en 2016</h5>
+                    <h5 class="subtitulo_azul">Lo más destacado en 2016</h5>
                     <ul class="texto">
                         <li>Se alcanzaron 46 aliados internacionales, nacionales y locales</li>
                         <li>1.765 asistentes a eventos </li>
@@ -396,11 +396,11 @@
                 <div class="col-sm-8 fondo-blanco">
                     <br><br><br>
                     <h5 class="destacado azul">Riesgos y/o oportunidades</h5>
-                    <h5 class="destacado azul">Riesgos:</h5>
+                    <h5 class="subtitulo_medio_gris">Riesgos:</h5>
                     <ul class="texto">
                         <li>La sostenibilidad de iniciativas de ciudad como Batuta y Manizales Cómo Vamos constituye un reto constante. </li>
                     </ul>
-                    <h5 class="destacado azul">Oportunidades:</h5>
+                    <h5 class="subtitulo_medio_gris">Oportunidades:</h5>
                     <ul class="texto">
                         <li>La posibilidad de Manizales Cómo Vamos de profundizar en temas de interés de la ciudad representa una oportunidad para seguir aportando a las apuestas de desarrollo de Manizales. </li>
                         <li>La articulación del proyecto Batuta Moog con el programa La Universidad en Tu Colegio es una ventana de oportunidad para el fortalecimiento de esta unidad de negocio.</li>
