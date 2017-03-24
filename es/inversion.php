@@ -1,12 +1,13 @@
 <?php
     $activo = 5;
     $activo_submenu = 1;
+    $archivo_actual = basename($_SERVER['PHP_SELF']); 
     include 'header.php';
 ?>
 <div class="container principal">
     <div class="row subMenu amarillo inverso">
         <div class="col-sm-5">
-            <a href="../en/index.php" class="language">English</a>
+            <a href="../en/<?php echo $archivo_actual; ?>" class="language">English</a>
             <span class="bar-separator">|</span>
             <a href="ReporteSostenibilidad2016.pdf" class="DescargarPDF" target="_blank"><img src="./img/pdf.gif" alt=""> Versión PDF</a>
         </div>
